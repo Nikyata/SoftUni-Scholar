@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\net6.0\12. Even Number.exe
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\net6.0\12. Even Number.deps.json
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\net6.0\12. Even Number.runtimeconfig.json
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\net6.0\12. Even Number.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\net6.0\12. Even Number.pdb
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net6.0\12. Even Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net6.0\12. Even Number.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net6.0\12. Even Number.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net6.0\12. Even Number.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net6.0\12. Even Number.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net6.0\refint\12. Even Number.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net6.0\12. Even Number.pdb
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net6.0\12. Even Number.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\net6.0\ref\12. Even Number.dll

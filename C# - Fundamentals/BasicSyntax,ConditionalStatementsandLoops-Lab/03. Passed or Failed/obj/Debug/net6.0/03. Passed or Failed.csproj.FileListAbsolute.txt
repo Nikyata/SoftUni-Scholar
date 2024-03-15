@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\net6.0\03. Passed or Failed.exe
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\net6.0\03. Passed or Failed.deps.json
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\net6.0\03. Passed or Failed.runtimeconfig.json
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\net6.0\03. Passed or Failed.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\net6.0\03. Passed or Failed.pdb
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\03. Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\03. Passed or Failed.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\03. Passed or Failed.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\03. Passed or Failed.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\03. Passed or Failed.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\refint\03. Passed or Failed.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\03. Passed or Failed.pdb
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\03. Passed or Failed.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\net6.0\ref\03. Passed or Failed.dll

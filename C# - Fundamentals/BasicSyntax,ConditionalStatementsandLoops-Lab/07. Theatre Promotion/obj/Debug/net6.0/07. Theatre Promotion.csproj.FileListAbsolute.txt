@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\bin\Debug\net6.0\07. Theatre Promotion.exe
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\bin\Debug\net6.0\07. Theatre Promotion.deps.json
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\bin\Debug\net6.0\07. Theatre Promotion.runtimeconfig.json
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\bin\Debug\net6.0\07. Theatre Promotion.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\bin\Debug\net6.0\07. Theatre Promotion.pdb
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net6.0\07. Theatre Promotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net6.0\07. Theatre Promotion.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net6.0\07. Theatre Promotion.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net6.0\07. Theatre Promotion.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net6.0\07. Theatre Promotion.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net6.0\refint\07. Theatre Promotion.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net6.0\07. Theatre Promotion.pdb
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net6.0\07. Theatre Promotion.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\07. Theatre Promotion\obj\Debug\net6.0\ref\07. Theatre Promotion.dll

@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\net6.0\08. Divisible by 3.exe
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\net6.0\08. Divisible by 3.deps.json
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\net6.0\08. Divisible by 3.runtimeconfig.json
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\net6.0\08. Divisible by 3.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\net6.0\08. Divisible by 3.pdb
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net6.0\08. Divisible by 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net6.0\08. Divisible by 3.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net6.0\08. Divisible by 3.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net6.0\08. Divisible by 3.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net6.0\08. Divisible by 3.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net6.0\refint\08. Divisible by 3.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net6.0\08. Divisible by 3.pdb
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net6.0\08. Divisible by 3.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\net6.0\ref\08. Divisible by 3.dll
