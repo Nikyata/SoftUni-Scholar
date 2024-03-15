@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\net8.0\08. Beer Kegs.exe
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\net8.0\08. Beer Kegs.deps.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\net8.0\08. Beer Kegs.runtimeconfig.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\net8.0\08. Beer Kegs.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\08. Beer Kegs\bin\Debug\net8.0\08. Beer Kegs.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net8.0\08. Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net8.0\08. Beer Kegs.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net8.0\08. Beer Kegs.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net8.0\08. Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net8.0\08. Beer Kegs.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net8.0\refint\08. Beer Kegs.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net8.0\08. Beer Kegs.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net8.0\08. Beer Kegs.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\08. Beer Kegs\obj\Debug\net8.0\ref\08. Beer Kegs.dll

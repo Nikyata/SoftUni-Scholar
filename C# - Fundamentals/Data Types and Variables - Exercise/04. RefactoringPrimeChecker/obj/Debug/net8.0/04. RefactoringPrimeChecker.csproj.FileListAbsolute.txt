@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\04. RefactoringPrimeChecker\bin\Debug\net8.0\04. RefactoringPrimeChecker.exe
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\04. RefactoringPrimeChecker\bin\Debug\net8.0\04. RefactoringPrimeChecker.deps.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\04. RefactoringPrimeChecker\bin\Debug\net8.0\04. RefactoringPrimeChecker.runtimeconfig.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\04. RefactoringPrimeChecker\bin\Debug\net8.0\04. RefactoringPrimeChecker.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\04. RefactoringPrimeChecker\bin\Debug\net8.0\04. RefactoringPrimeChecker.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\04. RefactoringPrimeChecker\obj\Debug\net8.0\04. RefactoringPrimeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\04. RefactoringPrimeChecker\obj\Debug\net8.0\04. RefactoringPrimeChecker.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\04. RefactoringPrimeChecker\obj\Debug\net8.0\04. RefactoringPrimeChecker.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\04. RefactoringPrimeChecker\obj\Debug\net8.0\04. RefactoringPrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\04. RefactoringPrimeChecker\obj\Debug\net8.0\04. RefactoringPrimeChecker.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\04. RefactoringPrimeChecker\obj\Debug\net8.0\refint\04. RefactoringPrimeChecker.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\04. RefactoringPrimeChecker\obj\Debug\net8.0\04. RefactoringPrimeChecker.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\04. RefactoringPrimeChecker\obj\Debug\net8.0\04. RefactoringPrimeChecker.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\04. RefactoringPrimeChecker\obj\Debug\net8.0\ref\04. RefactoringPrimeChecker.dll

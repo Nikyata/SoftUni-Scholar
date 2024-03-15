@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net8.0\06. Triples of Latin Letters.exe
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net8.0\06. Triples of Latin Letters.deps.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net8.0\06. Triples of Latin Letters.runtimeconfig.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net8.0\06. Triples of Latin Letters.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net8.0\06. Triples of Latin Letters.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net8.0\06. Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net8.0\06. Triples of Latin Letters.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net8.0\06. Triples of Latin Letters.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net8.0\06. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net8.0\06. Triples of Latin Letters.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net8.0\refint\06. Triples of Latin Letters.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net8.0\06. Triples of Latin Letters.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net8.0\06. Triples of Latin Letters.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net8.0\ref\06. Triples of Latin Letters.dll

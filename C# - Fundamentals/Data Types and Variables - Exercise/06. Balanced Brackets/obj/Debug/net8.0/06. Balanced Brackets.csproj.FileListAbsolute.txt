@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Balanced Brackets\bin\Debug\net8.0\06. Balanced Brackets.exe
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Balanced Brackets\bin\Debug\net8.0\06. Balanced Brackets.deps.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Balanced Brackets\bin\Debug\net8.0\06. Balanced Brackets.runtimeconfig.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Balanced Brackets\bin\Debug\net8.0\06. Balanced Brackets.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Balanced Brackets\bin\Debug\net8.0\06. Balanced Brackets.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Balanced Brackets\obj\Debug\net8.0\06. Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Balanced Brackets\obj\Debug\net8.0\06. Balanced Brackets.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Balanced Brackets\obj\Debug\net8.0\06. Balanced Brackets.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Balanced Brackets\obj\Debug\net8.0\06. Balanced Brackets.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Balanced Brackets\obj\Debug\net8.0\06. Balanced Brackets.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Balanced Brackets\obj\Debug\net8.0\refint\06. Balanced Brackets.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Balanced Brackets\obj\Debug\net8.0\06. Balanced Brackets.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Balanced Brackets\obj\Debug\net8.0\06. Balanced Brackets.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\06. Balanced Brackets\obj\Debug\net8.0\ref\06. Balanced Brackets.dll

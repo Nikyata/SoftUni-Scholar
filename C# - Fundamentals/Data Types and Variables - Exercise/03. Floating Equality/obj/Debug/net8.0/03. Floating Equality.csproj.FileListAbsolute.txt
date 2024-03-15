@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\03. Floating Equality\bin\Debug\net8.0\03. Floating Equality.exe
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\03. Floating Equality\bin\Debug\net8.0\03. Floating Equality.deps.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\03. Floating Equality\bin\Debug\net8.0\03. Floating Equality.runtimeconfig.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\03. Floating Equality\bin\Debug\net8.0\03. Floating Equality.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\03. Floating Equality\bin\Debug\net8.0\03. Floating Equality.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\03. Floating Equality\obj\Debug\net8.0\03. Floating Equality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\03. Floating Equality\obj\Debug\net8.0\03. Floating Equality.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\03. Floating Equality\obj\Debug\net8.0\03. Floating Equality.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\03. Floating Equality\obj\Debug\net8.0\03. Floating Equality.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\03. Floating Equality\obj\Debug\net8.0\03. Floating Equality.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\03. Floating Equality\obj\Debug\net8.0\refint\03. Floating Equality.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\03. Floating Equality\obj\Debug\net8.0\03. Floating Equality.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\03. Floating Equality\obj\Debug\net8.0\03. Floating Equality.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\03. Floating Equality\obj\Debug\net8.0\ref\03. Floating Equality.dll

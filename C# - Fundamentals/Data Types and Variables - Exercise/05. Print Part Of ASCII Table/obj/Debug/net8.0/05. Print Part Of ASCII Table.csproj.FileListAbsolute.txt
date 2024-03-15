@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net8.0\05. Print Part Of ASCII Table.exe
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net8.0\05. Print Part Of ASCII Table.deps.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net8.0\05. Print Part Of ASCII Table.runtimeconfig.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net8.0\05. Print Part Of ASCII Table.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net8.0\05. Print Part Of ASCII Table.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net8.0\05. Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net8.0\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net8.0\05. Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net8.0\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net8.0\05. Print Part Of ASCII Table.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net8.0\refint\05. Print Part Of ASCII Table.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net8.0\05. Print Part Of ASCII Table.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net8.0\05. Print Part Of ASCII Table.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net8.0\ref\05. Print Part Of ASCII Table.dll

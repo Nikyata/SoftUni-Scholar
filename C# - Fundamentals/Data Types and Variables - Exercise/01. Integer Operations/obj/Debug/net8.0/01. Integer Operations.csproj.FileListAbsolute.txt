@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net8.0\01. Integer Operations.exe
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net8.0\01. Integer Operations.deps.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net8.0\01. Integer Operations.runtimeconfig.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net8.0\01. Integer Operations.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net8.0\01. Integer Operations.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net8.0\01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net8.0\01. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net8.0\01. Integer Operations.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net8.0\01. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net8.0\01. Integer Operations.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net8.0\refint\01. Integer Operations.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net8.0\01. Integer Operations.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net8.0\01. Integer Operations.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net8.0\ref\01. Integer Operations.dll
