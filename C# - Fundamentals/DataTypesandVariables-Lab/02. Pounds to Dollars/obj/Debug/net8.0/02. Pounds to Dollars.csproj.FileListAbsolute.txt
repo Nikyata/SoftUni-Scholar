@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net8.0\02. Pounds to Dollars.exe
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net8.0\02. Pounds to Dollars.deps.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net8.0\02. Pounds to Dollars.runtimeconfig.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net8.0\02. Pounds to Dollars.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net8.0\02. Pounds to Dollars.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\02. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\02. Pounds to Dollars.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\02. Pounds to Dollars.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\refint\02. Pounds to Dollars.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\02. Pounds to Dollars.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\02. Pounds to Dollars.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net8.0\ref\02. Pounds to Dollars.dll

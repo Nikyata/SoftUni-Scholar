@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\net8.0\07. Concat Names.exe
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\net8.0\07. Concat Names.deps.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\net8.0\07. Concat Names.runtimeconfig.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\net8.0\07. Concat Names.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\07. Concat Names\bin\Debug\net8.0\07. Concat Names.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net8.0\07. Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net8.0\07. Concat Names.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net8.0\07. Concat Names.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net8.0\07. Concat Names.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net8.0\07. Concat Names.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net8.0\refint\07. Concat Names.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net8.0\07. Concat Names.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net8.0\07. Concat Names.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\07. Concat Names\obj\Debug\net8.0\ref\07. Concat Names.dll

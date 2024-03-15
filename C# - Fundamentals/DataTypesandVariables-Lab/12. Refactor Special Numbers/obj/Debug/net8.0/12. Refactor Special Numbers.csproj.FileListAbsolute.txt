@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net8.0\12. Refactor Special Numbers.exe
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net8.0\12. Refactor Special Numbers.deps.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net8.0\12. Refactor Special Numbers.runtimeconfig.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net8.0\12. Refactor Special Numbers.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net8.0\12. Refactor Special Numbers.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net8.0\12. Refactor Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net8.0\12. Refactor Special Numbers.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net8.0\12. Refactor Special Numbers.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net8.0\12. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net8.0\12. Refactor Special Numbers.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net8.0\refint\12. Refactor Special Numbers.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net8.0\12. Refactor Special Numbers.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net8.0\12. Refactor Special Numbers.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net8.0\ref\12. Refactor Special Numbers.dll

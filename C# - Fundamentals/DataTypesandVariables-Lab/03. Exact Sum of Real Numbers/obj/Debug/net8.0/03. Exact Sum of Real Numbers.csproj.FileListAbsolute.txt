@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net8.0\03. Exact Sum of Real Numbers.exe
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net8.0\03. Exact Sum of Real Numbers.deps.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net8.0\03. Exact Sum of Real Numbers.runtimeconfig.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net8.0\03. Exact Sum of Real Numbers.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net8.0\03. Exact Sum of Real Numbers.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net8.0\03. Exact Sum of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net8.0\03. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net8.0\03. Exact Sum of Real Numbers.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net8.0\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net8.0\03. Exact Sum of Real Numbers.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net8.0\refint\03. Exact Sum of Real Numbers.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net8.0\03. Exact Sum of Real Numbers.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net8.0\03. Exact Sum of Real Numbers.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net8.0\ref\03. Exact Sum of Real Numbers.dll

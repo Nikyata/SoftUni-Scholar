@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net8.0\10. Lower or Upper.exe
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net8.0\10. Lower or Upper.deps.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net8.0\10. Lower or Upper.runtimeconfig.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net8.0\10. Lower or Upper.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net8.0\10. Lower or Upper.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\10. Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\10. Lower or Upper.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\10. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\10. Lower or Upper.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\refint\10. Lower or Upper.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\10. Lower or Upper.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\10. Lower or Upper.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\ref\10. Lower or Upper.dll

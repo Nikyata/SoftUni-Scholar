@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net8.0\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net8.0\05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net8.0\05. Special Numbers.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net8.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net8.0\05. Special Numbers.exe
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net8.0\05. Special Numbers.deps.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net8.0\05. Special Numbers.runtimeconfig.json
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net8.0\05. Special Numbers.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net8.0\05. Special Numbers.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net8.0\05. Special Numbers.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net8.0\refint\05. Special Numbers.dll
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net8.0\05. Special Numbers.pdb
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net8.0\05. Special Numbers.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net8.0\ref\05. Special Numbers.dll
