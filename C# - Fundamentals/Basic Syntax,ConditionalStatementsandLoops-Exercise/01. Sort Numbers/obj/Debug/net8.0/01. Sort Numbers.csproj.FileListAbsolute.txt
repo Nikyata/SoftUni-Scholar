@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\01. Sort Numbers\bin\Debug\net8.0\01. Sort Numbers.exe
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\01. Sort Numbers\bin\Debug\net8.0\01. Sort Numbers.deps.json
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\01. Sort Numbers\bin\Debug\net8.0\01. Sort Numbers.runtimeconfig.json
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\01. Sort Numbers\bin\Debug\net8.0\01. Sort Numbers.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\01. Sort Numbers\bin\Debug\net8.0\01. Sort Numbers.pdb
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\01. Sort Numbers\obj\Debug\net8.0\01. Sort Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\01. Sort Numbers\obj\Debug\net8.0\01. Sort Numbers.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\01. Sort Numbers\obj\Debug\net8.0\01. Sort Numbers.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\01. Sort Numbers\obj\Debug\net8.0\01. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\01. Sort Numbers\obj\Debug\net8.0\01. Sort Numbers.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\01. Sort Numbers\obj\Debug\net8.0\refint\01. Sort Numbers.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\01. Sort Numbers\obj\Debug\net8.0\01. Sort Numbers.pdb
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\01. Sort Numbers\obj\Debug\net8.0\01. Sort Numbers.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\01. Sort Numbers\obj\Debug\net8.0\ref\01. Sort Numbers.dll

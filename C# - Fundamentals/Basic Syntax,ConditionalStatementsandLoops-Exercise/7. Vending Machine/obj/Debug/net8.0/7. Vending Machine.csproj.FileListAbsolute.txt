@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\bin\Debug\net8.0\7. Vending Machine.exe
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\bin\Debug\net8.0\7. Vending Machine.deps.json
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\bin\Debug\net8.0\7. Vending Machine.runtimeconfig.json
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\bin\Debug\net8.0\7. Vending Machine.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\bin\Debug\net8.0\7. Vending Machine.pdb
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\7. Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\7. Vending Machine.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\7. Vending Machine.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\7. Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\7. Vending Machine.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\refint\7. Vending Machine.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\7. Vending Machine.pdb
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\7. Vending Machine.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\7. Vending Machine\obj\Debug\net8.0\ref\7. Vending Machine.dll

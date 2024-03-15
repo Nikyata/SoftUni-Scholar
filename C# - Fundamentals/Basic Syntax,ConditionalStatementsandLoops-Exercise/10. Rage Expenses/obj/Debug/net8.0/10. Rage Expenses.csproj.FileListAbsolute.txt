@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net8.0\10. Rage Expenses.exe
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net8.0\10. Rage Expenses.deps.json
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net8.0\10. Rage Expenses.runtimeconfig.json
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net8.0\10. Rage Expenses.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\net8.0\10. Rage Expenses.pdb
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net8.0\10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net8.0\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net8.0\10. Rage Expenses.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net8.0\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net8.0\10. Rage Expenses.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net8.0\refint\10. Rage Expenses.dll
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net8.0\10. Rage Expenses.pdb
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net8.0\10. Rage Expenses.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\net8.0\ref\10. Rage Expenses.dll
