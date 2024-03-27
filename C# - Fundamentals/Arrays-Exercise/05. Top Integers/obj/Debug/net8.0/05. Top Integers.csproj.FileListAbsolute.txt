@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\05. Top Integers\bin\Debug\net8.0\05. Top Integers.exe
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\05. Top Integers\bin\Debug\net8.0\05. Top Integers.deps.json
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\05. Top Integers\bin\Debug\net8.0\05. Top Integers.runtimeconfig.json
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\05. Top Integers\bin\Debug\net8.0\05. Top Integers.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\05. Top Integers\bin\Debug\net8.0\05. Top Integers.pdb
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\05. Top Integers\obj\Debug\net8.0\05. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\05. Top Integers\obj\Debug\net8.0\05. Top Integers.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\05. Top Integers\obj\Debug\net8.0\05. Top Integers.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\05. Top Integers\obj\Debug\net8.0\05. Top Integers.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\05. Top Integers\obj\Debug\net8.0\05. Top Integers.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\05. Top Integers\obj\Debug\net8.0\refint\05. Top Integers.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\05. Top Integers\obj\Debug\net8.0\05. Top Integers.pdb
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\05. Top Integers\obj\Debug\net8.0\05. Top Integers.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\05. Top Integers\obj\Debug\net8.0\ref\05. Top Integers.dll

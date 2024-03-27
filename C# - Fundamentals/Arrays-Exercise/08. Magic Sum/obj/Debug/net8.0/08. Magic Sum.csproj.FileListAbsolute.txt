@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\08. Magic Sum\bin\Debug\net8.0\08. Magic Sum.exe
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\08. Magic Sum\bin\Debug\net8.0\08. Magic Sum.deps.json
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\08. Magic Sum\bin\Debug\net8.0\08. Magic Sum.runtimeconfig.json
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\08. Magic Sum\bin\Debug\net8.0\08. Magic Sum.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\08. Magic Sum\bin\Debug\net8.0\08. Magic Sum.pdb
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\08. Magic Sum\obj\Debug\net8.0\refint\08. Magic Sum.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.pdb
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\08. Magic Sum\obj\Debug\net8.0\ref\08. Magic Sum.dll

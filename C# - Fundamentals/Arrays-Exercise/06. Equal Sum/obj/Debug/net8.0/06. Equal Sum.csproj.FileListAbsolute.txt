@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\06. Equal Sum\bin\Debug\net8.0\06. Equal Sum.exe
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\06. Equal Sum\bin\Debug\net8.0\06. Equal Sum.deps.json
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\06. Equal Sum\bin\Debug\net8.0\06. Equal Sum.runtimeconfig.json
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\06. Equal Sum\bin\Debug\net8.0\06. Equal Sum.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\06. Equal Sum\bin\Debug\net8.0\06. Equal Sum.pdb
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\06. Equal Sum\obj\Debug\net8.0\06. Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\06. Equal Sum\obj\Debug\net8.0\06. Equal Sum.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\06. Equal Sum\obj\Debug\net8.0\06. Equal Sum.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\06. Equal Sum\obj\Debug\net8.0\06. Equal Sum.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\06. Equal Sum\obj\Debug\net8.0\06. Equal Sum.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\06. Equal Sum\obj\Debug\net8.0\refint\06. Equal Sum.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\06. Equal Sum\obj\Debug\net8.0\06. Equal Sum.pdb
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\06. Equal Sum\obj\Debug\net8.0\06. Equal Sum.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\06. Equal Sum\obj\Debug\net8.0\ref\06. Equal Sum.dll

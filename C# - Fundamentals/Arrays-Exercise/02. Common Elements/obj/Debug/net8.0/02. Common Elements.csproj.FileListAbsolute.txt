@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\02. Common Elements\bin\Debug\net8.0\02. Common Elements.exe
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\02. Common Elements\bin\Debug\net8.0\02. Common Elements.deps.json
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\02. Common Elements\bin\Debug\net8.0\02. Common Elements.runtimeconfig.json
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\02. Common Elements\bin\Debug\net8.0\02. Common Elements.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\02. Common Elements\bin\Debug\net8.0\02. Common Elements.pdb
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\02. Common Elements\obj\Debug\net8.0\02. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\02. Common Elements\obj\Debug\net8.0\02. Common Elements.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\02. Common Elements\obj\Debug\net8.0\02. Common Elements.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\02. Common Elements\obj\Debug\net8.0\02. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\02. Common Elements\obj\Debug\net8.0\02. Common Elements.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\02. Common Elements\obj\Debug\net8.0\refint\02. Common Elements.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\02. Common Elements\obj\Debug\net8.0\02. Common Elements.pdb
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\02. Common Elements\obj\Debug\net8.0\02. Common Elements.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\02. Common Elements\obj\Debug\net8.0\ref\02. Common Elements.dll

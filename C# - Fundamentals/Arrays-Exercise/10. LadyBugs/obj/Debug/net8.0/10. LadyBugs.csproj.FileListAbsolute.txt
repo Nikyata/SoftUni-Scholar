@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\10. LadyBugs\bin\Debug\net8.0\10. LadyBugs.exe
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\10. LadyBugs\bin\Debug\net8.0\10. LadyBugs.deps.json
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\10. LadyBugs\bin\Debug\net8.0\10. LadyBugs.runtimeconfig.json
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\10. LadyBugs\bin\Debug\net8.0\10. LadyBugs.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\10. LadyBugs\bin\Debug\net8.0\10. LadyBugs.pdb
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\10. LadyBugs\obj\Debug\net8.0\10. LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\10. LadyBugs\obj\Debug\net8.0\10. LadyBugs.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\10. LadyBugs\obj\Debug\net8.0\10. LadyBugs.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\10. LadyBugs\obj\Debug\net8.0\10. LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\10. LadyBugs\obj\Debug\net8.0\10. LadyBugs.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\10. LadyBugs\obj\Debug\net8.0\refint\10. LadyBugs.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\10. LadyBugs\obj\Debug\net8.0\10. LadyBugs.pdb
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\10. LadyBugs\obj\Debug\net8.0\10. LadyBugs.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\10. LadyBugs\obj\Debug\net8.0\ref\10. LadyBugs.dll

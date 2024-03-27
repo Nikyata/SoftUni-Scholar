@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\01. Day of Week\03. Rounding Numbers\bin\Debug\net8.0\03. Rounding Numbers.exe
+C:\Users\nikyata\source\repos\01. Day of Week\03. Rounding Numbers\bin\Debug\net8.0\03. Rounding Numbers.deps.json
+C:\Users\nikyata\source\repos\01. Day of Week\03. Rounding Numbers\bin\Debug\net8.0\03. Rounding Numbers.runtimeconfig.json
+C:\Users\nikyata\source\repos\01. Day of Week\03. Rounding Numbers\bin\Debug\net8.0\03. Rounding Numbers.dll
+C:\Users\nikyata\source\repos\01. Day of Week\03. Rounding Numbers\bin\Debug\net8.0\03. Rounding Numbers.pdb
+C:\Users\nikyata\source\repos\01. Day of Week\03. Rounding Numbers\obj\Debug\net8.0\03. Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\01. Day of Week\03. Rounding Numbers\obj\Debug\net8.0\03. Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\01. Day of Week\03. Rounding Numbers\obj\Debug\net8.0\03. Rounding Numbers.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\01. Day of Week\03. Rounding Numbers\obj\Debug\net8.0\03. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\01. Day of Week\03. Rounding Numbers\obj\Debug\net8.0\03. Rounding Numbers.dll
+C:\Users\nikyata\source\repos\01. Day of Week\03. Rounding Numbers\obj\Debug\net8.0\refint\03. Rounding Numbers.dll
+C:\Users\nikyata\source\repos\01. Day of Week\03. Rounding Numbers\obj\Debug\net8.0\03. Rounding Numbers.pdb
+C:\Users\nikyata\source\repos\01. Day of Week\03. Rounding Numbers\obj\Debug\net8.0\03. Rounding Numbers.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\01. Day of Week\03. Rounding Numbers\obj\Debug\net8.0\ref\03. Rounding Numbers.dll

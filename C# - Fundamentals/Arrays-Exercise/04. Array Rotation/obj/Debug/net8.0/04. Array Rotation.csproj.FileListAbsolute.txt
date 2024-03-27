@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\04. Array Rotation\bin\Debug\net8.0\04. Array Rotation.exe
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\04. Array Rotation\bin\Debug\net8.0\04. Array Rotation.deps.json
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\04. Array Rotation\bin\Debug\net8.0\04. Array Rotation.runtimeconfig.json
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\04. Array Rotation\bin\Debug\net8.0\04. Array Rotation.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\04. Array Rotation\bin\Debug\net8.0\04. Array Rotation.pdb
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\04. Array Rotation\obj\Debug\net8.0\04. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\04. Array Rotation\obj\Debug\net8.0\04. Array Rotation.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\04. Array Rotation\obj\Debug\net8.0\04. Array Rotation.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\04. Array Rotation\obj\Debug\net8.0\04. Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\04. Array Rotation\obj\Debug\net8.0\04. Array Rotation.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\04. Array Rotation\obj\Debug\net8.0\refint\04. Array Rotation.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\04. Array Rotation\obj\Debug\net8.0\04. Array Rotation.pdb
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\04. Array Rotation\obj\Debug\net8.0\04. Array Rotation.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\04. Array Rotation\obj\Debug\net8.0\ref\04. Array Rotation.dll

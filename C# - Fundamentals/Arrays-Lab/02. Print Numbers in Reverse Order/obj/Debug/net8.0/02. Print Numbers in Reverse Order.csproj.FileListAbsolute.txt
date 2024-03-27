@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\01. Day of Week\02. Print Numbers in Reverse Order\bin\Debug\net8.0\02. Print Numbers in Reverse Order.exe
+C:\Users\nikyata\source\repos\01. Day of Week\02. Print Numbers in Reverse Order\bin\Debug\net8.0\02. Print Numbers in Reverse Order.deps.json
+C:\Users\nikyata\source\repos\01. Day of Week\02. Print Numbers in Reverse Order\bin\Debug\net8.0\02. Print Numbers in Reverse Order.runtimeconfig.json
+C:\Users\nikyata\source\repos\01. Day of Week\02. Print Numbers in Reverse Order\bin\Debug\net8.0\02. Print Numbers in Reverse Order.dll
+C:\Users\nikyata\source\repos\01. Day of Week\02. Print Numbers in Reverse Order\bin\Debug\net8.0\02. Print Numbers in Reverse Order.pdb
+C:\Users\nikyata\source\repos\01. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net8.0\02. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\01. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net8.0\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\01. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net8.0\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\01. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net8.0\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\01. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net8.0\02. Print Numbers in Reverse Order.dll
+C:\Users\nikyata\source\repos\01. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net8.0\refint\02. Print Numbers in Reverse Order.dll
+C:\Users\nikyata\source\repos\01. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net8.0\02. Print Numbers in Reverse Order.pdb
+C:\Users\nikyata\source\repos\01. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net8.0\02. Print Numbers in Reverse Order.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\01. Day of Week\02. Print Numbers in Reverse Order\obj\Debug\net8.0\ref\02. Print Numbers in Reverse Order.dll

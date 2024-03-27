@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\01. Day of Week\04. Reverse Array of Strings\bin\Debug\net8.0\04. Reverse Array of Strings.exe
+C:\Users\nikyata\source\repos\01. Day of Week\04. Reverse Array of Strings\bin\Debug\net8.0\04. Reverse Array of Strings.deps.json
+C:\Users\nikyata\source\repos\01. Day of Week\04. Reverse Array of Strings\bin\Debug\net8.0\04. Reverse Array of Strings.runtimeconfig.json
+C:\Users\nikyata\source\repos\01. Day of Week\04. Reverse Array of Strings\bin\Debug\net8.0\04. Reverse Array of Strings.dll
+C:\Users\nikyata\source\repos\01. Day of Week\04. Reverse Array of Strings\bin\Debug\net8.0\04. Reverse Array of Strings.pdb
+C:\Users\nikyata\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net8.0\04. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net8.0\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net8.0\04. Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net8.0\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net8.0\04. Reverse Array of Strings.dll
+C:\Users\nikyata\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net8.0\refint\04. Reverse Array of Strings.dll
+C:\Users\nikyata\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net8.0\04. Reverse Array of Strings.pdb
+C:\Users\nikyata\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net8.0\04. Reverse Array of Strings.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\01. Day of Week\04. Reverse Array of Strings\obj\Debug\net8.0\ref\04. Reverse Array of Strings.dll

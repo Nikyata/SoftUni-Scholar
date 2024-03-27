@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\01. Day of Week\05. Sum Even Numbers\bin\Debug\net8.0\05. Sum Even Numbers.exe
+C:\Users\nikyata\source\repos\01. Day of Week\05. Sum Even Numbers\bin\Debug\net8.0\05. Sum Even Numbers.deps.json
+C:\Users\nikyata\source\repos\01. Day of Week\05. Sum Even Numbers\bin\Debug\net8.0\05. Sum Even Numbers.runtimeconfig.json
+C:\Users\nikyata\source\repos\01. Day of Week\05. Sum Even Numbers\bin\Debug\net8.0\05. Sum Even Numbers.dll
+C:\Users\nikyata\source\repos\01. Day of Week\05. Sum Even Numbers\bin\Debug\net8.0\05. Sum Even Numbers.pdb
+C:\Users\nikyata\source\repos\01. Day of Week\05. Sum Even Numbers\obj\Debug\net8.0\05. Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\01. Day of Week\05. Sum Even Numbers\obj\Debug\net8.0\05. Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\01. Day of Week\05. Sum Even Numbers\obj\Debug\net8.0\05. Sum Even Numbers.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\01. Day of Week\05. Sum Even Numbers\obj\Debug\net8.0\05. Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\01. Day of Week\05. Sum Even Numbers\obj\Debug\net8.0\05. Sum Even Numbers.dll
+C:\Users\nikyata\source\repos\01. Day of Week\05. Sum Even Numbers\obj\Debug\net8.0\refint\05. Sum Even Numbers.dll
+C:\Users\nikyata\source\repos\01. Day of Week\05. Sum Even Numbers\obj\Debug\net8.0\05. Sum Even Numbers.pdb
+C:\Users\nikyata\source\repos\01. Day of Week\05. Sum Even Numbers\obj\Debug\net8.0\05. Sum Even Numbers.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\01. Day of Week\05. Sum Even Numbers\obj\Debug\net8.0\ref\05. Sum Even Numbers.dll

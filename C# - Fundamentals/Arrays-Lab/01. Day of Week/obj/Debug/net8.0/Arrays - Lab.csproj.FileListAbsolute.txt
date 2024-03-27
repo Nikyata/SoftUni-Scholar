@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\01. Day of Week\Arrays - Lab\bin\Debug\net8.0\Arrays - Lab.exe
+C:\Users\nikyata\source\repos\01. Day of Week\Arrays - Lab\bin\Debug\net8.0\Arrays - Lab.deps.json
+C:\Users\nikyata\source\repos\01. Day of Week\Arrays - Lab\bin\Debug\net8.0\Arrays - Lab.runtimeconfig.json
+C:\Users\nikyata\source\repos\01. Day of Week\Arrays - Lab\bin\Debug\net8.0\Arrays - Lab.dll
+C:\Users\nikyata\source\repos\01. Day of Week\Arrays - Lab\bin\Debug\net8.0\Arrays - Lab.pdb
+C:\Users\nikyata\source\repos\01. Day of Week\Arrays - Lab\obj\Debug\net8.0\Arrays - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\01. Day of Week\Arrays - Lab\obj\Debug\net8.0\Arrays - Lab.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\01. Day of Week\Arrays - Lab\obj\Debug\net8.0\Arrays - Lab.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\01. Day of Week\Arrays - Lab\obj\Debug\net8.0\Arrays - Lab.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\01. Day of Week\Arrays - Lab\obj\Debug\net8.0\Arrays - Lab.dll
+C:\Users\nikyata\source\repos\01. Day of Week\Arrays - Lab\obj\Debug\net8.0\refint\Arrays - Lab.dll
+C:\Users\nikyata\source\repos\01. Day of Week\Arrays - Lab\obj\Debug\net8.0\Arrays - Lab.pdb
+C:\Users\nikyata\source\repos\01. Day of Week\Arrays - Lab\obj\Debug\net8.0\Arrays - Lab.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\01. Day of Week\Arrays - Lab\obj\Debug\net8.0\ref\Arrays - Lab.dll

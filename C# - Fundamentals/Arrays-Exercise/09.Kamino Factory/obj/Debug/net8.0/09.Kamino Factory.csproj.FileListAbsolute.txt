@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\09.Kamino Factory\bin\Debug\net8.0\09.Kamino Factory.exe
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\09.Kamino Factory\bin\Debug\net8.0\09.Kamino Factory.deps.json
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\09.Kamino Factory\bin\Debug\net8.0\09.Kamino Factory.runtimeconfig.json
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\09.Kamino Factory\bin\Debug\net8.0\09.Kamino Factory.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\09.Kamino Factory\bin\Debug\net8.0\09.Kamino Factory.pdb
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\09.Kamino Factory\obj\Debug\net8.0\09.Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\09.Kamino Factory\obj\Debug\net8.0\09.Kamino Factory.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\09.Kamino Factory\obj\Debug\net8.0\09.Kamino Factory.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\09.Kamino Factory\obj\Debug\net8.0\09.Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\09.Kamino Factory\obj\Debug\net8.0\09.Kamino Factory.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\09.Kamino Factory\obj\Debug\net8.0\refint\09.Kamino Factory.dll
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\09.Kamino Factory\obj\Debug\net8.0\09.Kamino Factory.pdb
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\09.Kamino Factory\obj\Debug\net8.0\09.Kamino Factory.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Arrays-TrainingAgain\09.Kamino Factory\obj\Debug\net8.0\ref\09.Kamino Factory.dll
