@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\07. List Manipulation Advanced\obj\Debug\net8.0\07. List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\07. List Manipulation Advanced\obj\Debug\net8.0\07. List Manipulation Advanced.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\07. List Manipulation Advanced\obj\Debug\net8.0\07. List Manipulation Advanced.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\07. List Manipulation Advanced\obj\Debug\net8.0\07. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\07. List Manipulation Advanced\bin\Debug\net8.0\07. List Manipulation Advanced.exe
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\07. List Manipulation Advanced\bin\Debug\net8.0\07. List Manipulation Advanced.deps.json
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\07. List Manipulation Advanced\bin\Debug\net8.0\07. List Manipulation Advanced.runtimeconfig.json
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\07. List Manipulation Advanced\bin\Debug\net8.0\07. List Manipulation Advanced.dll
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\07. List Manipulation Advanced\bin\Debug\net8.0\07. List Manipulation Advanced.pdb
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\07. List Manipulation Advanced\obj\Debug\net8.0\07. List Manipulation Advanced.dll
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\07. List Manipulation Advanced\obj\Debug\net8.0\refint\07. List Manipulation Advanced.dll
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\07. List Manipulation Advanced\obj\Debug\net8.0\07. List Manipulation Advanced.pdb
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\07. List Manipulation Advanced\obj\Debug\net8.0\07. List Manipulation Advanced.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\07. List Manipulation Advanced\obj\Debug\net8.0\ref\07. List Manipulation Advanced.dll

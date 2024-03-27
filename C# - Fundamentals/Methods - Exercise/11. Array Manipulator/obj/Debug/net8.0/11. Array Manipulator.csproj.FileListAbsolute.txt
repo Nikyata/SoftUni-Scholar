@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Methods - Exercise\11. Array Manipulator\bin\Debug\net8.0\11. Array Manipulator.exe
+C:\Users\nikyata\source\repos\Methods - Exercise\11. Array Manipulator\bin\Debug\net8.0\11. Array Manipulator.deps.json
+C:\Users\nikyata\source\repos\Methods - Exercise\11. Array Manipulator\bin\Debug\net8.0\11. Array Manipulator.runtimeconfig.json
+C:\Users\nikyata\source\repos\Methods - Exercise\11. Array Manipulator\bin\Debug\net8.0\11. Array Manipulator.dll
+C:\Users\nikyata\source\repos\Methods - Exercise\11. Array Manipulator\bin\Debug\net8.0\11. Array Manipulator.pdb
+C:\Users\nikyata\source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\net8.0\11. Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\net8.0\11. Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\net8.0\11. Array Manipulator.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\net8.0\11. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\net8.0\11. Array Manipulator.dll
+C:\Users\nikyata\source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\net8.0\refint\11. Array Manipulator.dll
+C:\Users\nikyata\source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\net8.0\11. Array Manipulator.pdb
+C:\Users\nikyata\source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\net8.0\11. Array Manipulator.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Methods - Exercise\11. Array Manipulator\obj\Debug\net8.0\ref\11. Array Manipulator.dll

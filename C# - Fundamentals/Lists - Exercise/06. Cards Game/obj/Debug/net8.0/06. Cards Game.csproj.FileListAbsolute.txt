@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Lists - Exercise\06. Cards Game\bin\Debug\net8.0\06. Cards Game.exe
+C:\Users\nikyata\source\repos\Lists - Exercise\06. Cards Game\bin\Debug\net8.0\06. Cards Game.deps.json
+C:\Users\nikyata\source\repos\Lists - Exercise\06. Cards Game\bin\Debug\net8.0\06. Cards Game.runtimeconfig.json
+C:\Users\nikyata\source\repos\Lists - Exercise\06. Cards Game\bin\Debug\net8.0\06. Cards Game.dll
+C:\Users\nikyata\source\repos\Lists - Exercise\06. Cards Game\bin\Debug\net8.0\06. Cards Game.pdb
+C:\Users\nikyata\source\repos\Lists - Exercise\06. Cards Game\obj\Debug\net8.0\06. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Lists - Exercise\06. Cards Game\obj\Debug\net8.0\06. Cards Game.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Lists - Exercise\06. Cards Game\obj\Debug\net8.0\06. Cards Game.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Lists - Exercise\06. Cards Game\obj\Debug\net8.0\06. Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Lists - Exercise\06. Cards Game\obj\Debug\net8.0\06. Cards Game.dll
+C:\Users\nikyata\source\repos\Lists - Exercise\06. Cards Game\obj\Debug\net8.0\refint\06. Cards Game.dll
+C:\Users\nikyata\source\repos\Lists - Exercise\06. Cards Game\obj\Debug\net8.0\06. Cards Game.pdb
+C:\Users\nikyata\source\repos\Lists - Exercise\06. Cards Game\obj\Debug\net8.0\06. Cards Game.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Lists - Exercise\06. Cards Game\obj\Debug\net8.0\ref\06. Cards Game.dll

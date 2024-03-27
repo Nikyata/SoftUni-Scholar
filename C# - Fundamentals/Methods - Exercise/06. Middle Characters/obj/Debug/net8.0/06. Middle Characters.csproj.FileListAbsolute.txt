@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Methods - Exercise\06. Middle Characters\bin\Debug\net8.0\06. Middle Characters.exe
+C:\Users\nikyata\source\repos\Methods - Exercise\06. Middle Characters\bin\Debug\net8.0\06. Middle Characters.deps.json
+C:\Users\nikyata\source\repos\Methods - Exercise\06. Middle Characters\bin\Debug\net8.0\06. Middle Characters.runtimeconfig.json
+C:\Users\nikyata\source\repos\Methods - Exercise\06. Middle Characters\bin\Debug\net8.0\06. Middle Characters.dll
+C:\Users\nikyata\source\repos\Methods - Exercise\06. Middle Characters\bin\Debug\net8.0\06. Middle Characters.pdb
+C:\Users\nikyata\source\repos\Methods - Exercise\06. Middle Characters\obj\Debug\net8.0\06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Methods - Exercise\06. Middle Characters\obj\Debug\net8.0\06. Middle Characters.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Methods - Exercise\06. Middle Characters\obj\Debug\net8.0\06. Middle Characters.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Methods - Exercise\06. Middle Characters\obj\Debug\net8.0\06. Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Methods - Exercise\06. Middle Characters\obj\Debug\net8.0\06. Middle Characters.dll
+C:\Users\nikyata\source\repos\Methods - Exercise\06. Middle Characters\obj\Debug\net8.0\refint\06. Middle Characters.dll
+C:\Users\nikyata\source\repos\Methods - Exercise\06. Middle Characters\obj\Debug\net8.0\06. Middle Characters.pdb
+C:\Users\nikyata\source\repos\Methods - Exercise\06. Middle Characters\obj\Debug\net8.0\06. Middle Characters.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Methods - Exercise\06. Middle Characters\obj\Debug\net8.0\ref\06. Middle Characters.dll

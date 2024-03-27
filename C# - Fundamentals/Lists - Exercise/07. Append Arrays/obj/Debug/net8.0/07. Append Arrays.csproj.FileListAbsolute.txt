@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Lists - Exercise\07. Append Arrays\bin\Debug\net8.0\07. Append Arrays.exe
+C:\Users\nikyata\source\repos\Lists - Exercise\07. Append Arrays\bin\Debug\net8.0\07. Append Arrays.deps.json
+C:\Users\nikyata\source\repos\Lists - Exercise\07. Append Arrays\bin\Debug\net8.0\07. Append Arrays.runtimeconfig.json
+C:\Users\nikyata\source\repos\Lists - Exercise\07. Append Arrays\bin\Debug\net8.0\07. Append Arrays.dll
+C:\Users\nikyata\source\repos\Lists - Exercise\07. Append Arrays\bin\Debug\net8.0\07. Append Arrays.pdb
+C:\Users\nikyata\source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\net8.0\07. Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\net8.0\07. Append Arrays.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\net8.0\07. Append Arrays.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\net8.0\07. Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\net8.0\07. Append Arrays.dll
+C:\Users\nikyata\source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\net8.0\refint\07. Append Arrays.dll
+C:\Users\nikyata\source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\net8.0\07. Append Arrays.pdb
+C:\Users\nikyata\source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\net8.0\07. Append Arrays.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Lists - Exercise\07. Append Arrays\obj\Debug\net8.0\ref\07. Append Arrays.dll

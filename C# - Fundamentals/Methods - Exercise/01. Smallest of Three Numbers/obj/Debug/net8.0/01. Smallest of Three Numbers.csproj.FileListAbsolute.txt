@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net8.0\01. Smallest of Three Numbers.exe
+C:\Users\nikyata\source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net8.0\01. Smallest of Three Numbers.deps.json
+C:\Users\nikyata\source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net8.0\01. Smallest of Three Numbers.runtimeconfig.json
+C:\Users\nikyata\source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net8.0\01. Smallest of Three Numbers.dll
+C:\Users\nikyata\source\repos\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net8.0\01. Smallest of Three Numbers.pdb
+C:\Users\nikyata\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net8.0\01. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net8.0\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net8.0\01. Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net8.0\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net8.0\01. Smallest of Three Numbers.dll
+C:\Users\nikyata\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net8.0\refint\01. Smallest of Three Numbers.dll
+C:\Users\nikyata\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net8.0\01. Smallest of Three Numbers.pdb
+C:\Users\nikyata\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net8.0\01. Smallest of Three Numbers.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net8.0\ref\01. Smallest of Three Numbers.dll

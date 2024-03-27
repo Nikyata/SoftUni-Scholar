@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Methods - Exercise\05. Add and Subtract\bin\Debug\net8.0\05. Add and Subtract.exe
+C:\Users\nikyata\source\repos\Methods - Exercise\05. Add and Subtract\bin\Debug\net8.0\05. Add and Subtract.deps.json
+C:\Users\nikyata\source\repos\Methods - Exercise\05. Add and Subtract\bin\Debug\net8.0\05. Add and Subtract.runtimeconfig.json
+C:\Users\nikyata\source\repos\Methods - Exercise\05. Add and Subtract\bin\Debug\net8.0\05. Add and Subtract.dll
+C:\Users\nikyata\source\repos\Methods - Exercise\05. Add and Subtract\bin\Debug\net8.0\05. Add and Subtract.pdb
+C:\Users\nikyata\source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\net8.0\05. Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\net8.0\05. Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\net8.0\05. Add and Subtract.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\net8.0\05. Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\net8.0\05. Add and Subtract.dll
+C:\Users\nikyata\source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\net8.0\refint\05. Add and Subtract.dll
+C:\Users\nikyata\source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\net8.0\05. Add and Subtract.pdb
+C:\Users\nikyata\source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\net8.0\05. Add and Subtract.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Methods - Exercise\05. Add and Subtract\obj\Debug\net8.0\ref\05. Add and Subtract.dll

@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Methods - Exercise\09. Palindrome Integers\bin\Debug\net8.0\09. Palindrome Integers.exe
+C:\Users\nikyata\source\repos\Methods - Exercise\09. Palindrome Integers\bin\Debug\net8.0\09. Palindrome Integers.deps.json
+C:\Users\nikyata\source\repos\Methods - Exercise\09. Palindrome Integers\bin\Debug\net8.0\09. Palindrome Integers.runtimeconfig.json
+C:\Users\nikyata\source\repos\Methods - Exercise\09. Palindrome Integers\bin\Debug\net8.0\09. Palindrome Integers.dll
+C:\Users\nikyata\source\repos\Methods - Exercise\09. Palindrome Integers\bin\Debug\net8.0\09. Palindrome Integers.pdb
+C:\Users\nikyata\source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\net8.0\09. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\net8.0\09. Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\net8.0\09. Palindrome Integers.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\net8.0\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\net8.0\09. Palindrome Integers.dll
+C:\Users\nikyata\source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\net8.0\refint\09. Palindrome Integers.dll
+C:\Users\nikyata\source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\net8.0\09. Palindrome Integers.pdb
+C:\Users\nikyata\source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\net8.0\09. Palindrome Integers.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Methods - Exercise\09. Palindrome Integers\obj\Debug\net8.0\ref\09. Palindrome Integers.dll

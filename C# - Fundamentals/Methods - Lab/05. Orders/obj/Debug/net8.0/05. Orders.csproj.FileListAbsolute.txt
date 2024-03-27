@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Methods - Lab\05. Orders\bin\Debug\net8.0\05. Orders.exe
+C:\Users\nikyata\source\repos\Methods - Lab\05. Orders\bin\Debug\net8.0\05. Orders.deps.json
+C:\Users\nikyata\source\repos\Methods - Lab\05. Orders\bin\Debug\net8.0\05. Orders.runtimeconfig.json
+C:\Users\nikyata\source\repos\Methods - Lab\05. Orders\bin\Debug\net8.0\05. Orders.dll
+C:\Users\nikyata\source\repos\Methods - Lab\05. Orders\bin\Debug\net8.0\05. Orders.pdb
+C:\Users\nikyata\source\repos\Methods - Lab\05. Orders\obj\Debug\net8.0\05. Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Methods - Lab\05. Orders\obj\Debug\net8.0\05. Orders.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Methods - Lab\05. Orders\obj\Debug\net8.0\05. Orders.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Methods - Lab\05. Orders\obj\Debug\net8.0\05. Orders.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Methods - Lab\05. Orders\obj\Debug\net8.0\05. Orders.dll
+C:\Users\nikyata\source\repos\Methods - Lab\05. Orders\obj\Debug\net8.0\refint\05. Orders.dll
+C:\Users\nikyata\source\repos\Methods - Lab\05. Orders\obj\Debug\net8.0\05. Orders.pdb
+C:\Users\nikyata\source\repos\Methods - Lab\05. Orders\obj\Debug\net8.0\05. Orders.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Methods - Lab\05. Orders\obj\Debug\net8.0\ref\05. Orders.dll

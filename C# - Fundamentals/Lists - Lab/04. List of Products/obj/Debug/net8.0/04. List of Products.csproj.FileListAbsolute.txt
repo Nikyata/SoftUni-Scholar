@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\04. List of Products\bin\Debug\net8.0\04. List of Products.exe
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\04. List of Products\bin\Debug\net8.0\04. List of Products.deps.json
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\04. List of Products\bin\Debug\net8.0\04. List of Products.runtimeconfig.json
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\04. List of Products\bin\Debug\net8.0\04. List of Products.dll
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\04. List of Products\bin\Debug\net8.0\04. List of Products.pdb
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\04. List of Products\obj\Debug\net8.0\04. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\04. List of Products\obj\Debug\net8.0\04. List of Products.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\04. List of Products\obj\Debug\net8.0\04. List of Products.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\04. List of Products\obj\Debug\net8.0\04. List of Products.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\04. List of Products\obj\Debug\net8.0\04. List of Products.dll
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\04. List of Products\obj\Debug\net8.0\refint\04. List of Products.dll
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\04. List of Products\obj\Debug\net8.0\04. List of Products.pdb
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\04. List of Products\obj\Debug\net8.0\04. List of Products.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\01. Sum Adjacent Equal Numbers\04. List of Products\obj\Debug\net8.0\ref\04. List of Products.dll

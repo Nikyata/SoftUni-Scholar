@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net8.0\09. Pokemon Don't Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net8.0\09. Pokemon Don't Go.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net8.0\09. Pokemon Don't Go.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net8.0\09. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net8.0\09. Pokemon Don't Go.exe
+C:\Users\nikyata\source\repos\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net8.0\09. Pokemon Don't Go.deps.json
+C:\Users\nikyata\source\repos\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net8.0\09. Pokemon Don't Go.runtimeconfig.json
+C:\Users\nikyata\source\repos\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net8.0\09. Pokemon Don't Go.dll
+C:\Users\nikyata\source\repos\Lists - Exercise\09. Pokemon Don't Go\bin\Debug\net8.0\09. Pokemon Don't Go.pdb
+C:\Users\nikyata\source\repos\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net8.0\09. Pokemon Don't Go.dll
+C:\Users\nikyata\source\repos\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net8.0\refint\09. Pokemon Don't Go.dll
+C:\Users\nikyata\source\repos\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net8.0\09. Pokemon Don't Go.pdb
+C:\Users\nikyata\source\repos\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net8.0\09. Pokemon Don't Go.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Lists - Exercise\09. Pokemon Don't Go\obj\Debug\net8.0\ref\09. Pokemon Don't Go.dll

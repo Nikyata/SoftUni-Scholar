@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Lists - Exercise\03. House Party\bin\Debug\net8.0\03. House Party.exe
+C:\Users\nikyata\source\repos\Lists - Exercise\03. House Party\bin\Debug\net8.0\03. House Party.deps.json
+C:\Users\nikyata\source\repos\Lists - Exercise\03. House Party\bin\Debug\net8.0\03. House Party.runtimeconfig.json
+C:\Users\nikyata\source\repos\Lists - Exercise\03. House Party\bin\Debug\net8.0\03. House Party.dll
+C:\Users\nikyata\source\repos\Lists - Exercise\03. House Party\bin\Debug\net8.0\03. House Party.pdb
+C:\Users\nikyata\source\repos\Lists - Exercise\03. House Party\obj\Debug\net8.0\03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Lists - Exercise\03. House Party\obj\Debug\net8.0\03. House Party.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Lists - Exercise\03. House Party\obj\Debug\net8.0\03. House Party.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Lists - Exercise\03. House Party\obj\Debug\net8.0\03. House Party.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Lists - Exercise\03. House Party\obj\Debug\net8.0\03. House Party.dll
+C:\Users\nikyata\source\repos\Lists - Exercise\03. House Party\obj\Debug\net8.0\refint\03. House Party.dll
+C:\Users\nikyata\source\repos\Lists - Exercise\03. House Party\obj\Debug\net8.0\03. House Party.pdb
+C:\Users\nikyata\source\repos\Lists - Exercise\03. House Party\obj\Debug\net8.0\03. House Party.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Lists - Exercise\03. House Party\obj\Debug\net8.0\ref\03. House Party.dll

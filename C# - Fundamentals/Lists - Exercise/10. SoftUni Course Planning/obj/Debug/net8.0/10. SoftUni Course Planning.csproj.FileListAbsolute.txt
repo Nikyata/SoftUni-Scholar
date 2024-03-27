@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net8.0\10. SoftUni Course Planning.exe
+C:\Users\nikyata\source\repos\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net8.0\10. SoftUni Course Planning.deps.json
+C:\Users\nikyata\source\repos\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net8.0\10. SoftUni Course Planning.runtimeconfig.json
+C:\Users\nikyata\source\repos\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net8.0\10. SoftUni Course Planning.dll
+C:\Users\nikyata\source\repos\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\net8.0\10. SoftUni Course Planning.pdb
+C:\Users\nikyata\source\repos\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net8.0\10. SoftUni Course Planning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net8.0\10. SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net8.0\10. SoftUni Course Planning.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net8.0\10. SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net8.0\10. SoftUni Course Planning.dll
+C:\Users\nikyata\source\repos\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net8.0\refint\10. SoftUni Course Planning.dll
+C:\Users\nikyata\source\repos\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net8.0\10. SoftUni Course Planning.pdb
+C:\Users\nikyata\source\repos\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net8.0\10. SoftUni Course Planning.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\net8.0\ref\10. SoftUni Course Planning.dll
