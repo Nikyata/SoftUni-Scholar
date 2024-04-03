@@ -1,0 +1,149 @@
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model IEnumerable<ParkingSystem.Models.Car>
+
+@{
+    ViewData["Title"] = "Parking System";
+}
+
+<div class = "main-content">
+
+
+<div class="row">
+    <div class="col-md-auto">
+        <h1>Parking System</h1>
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col">
+                     Owner:
+                </th>
+                <th scope="col">
+                    Car Make
+                </th>
+                <th scope="col">
+                    Plate Number
+                </th>
+                <th scope="col">
+                    Parking Space#
+                </th>
+                <th scope="col">
+                    Date/Time
+                </th>
+                <th scope="col">
+                    Paid:
+                </th>
+                <th scope="col">
+                    Timeleft:
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Owner)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CarMake)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PlateNumber)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ParkingSpaceNum)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DateTime)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Paid) $
+                    </td>
+                    <td>
+                        @{
+                            
+                        }
+                        <form runat="server">
+                            <asp:ScriptManager runat="server" ID="ScriptManager1"/>
+                            <asp:Timer ID="Timer1" runat="server" OnTick="Timer1_Tick" Interval="1000">
+                            </asp:Timer>
+                            <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                                <ContentTemplate>
+                                    <span id="CodeAsk">ألم تتلقى الرمز ؟</span><br/>
+                                    <asp:Label ID="Label1" runat="server" Text="2"></asp:Label>
+                                </ContentTemplate>
+                                <Triggers>
+                                    <asp:AsyncPostBackTrigger ControlID="Timer1" EventName="Tick"/>
+                                </Triggers>
+                            </asp:UpdatePanel>
+                        </form>
+
+
+                        mins
+
+
+                    </td>
+                    <td>
+                        <form method="post" asp-controller="Car" asp-action="DeleteCar">
+                            <input type="hidden" name="plateNumber" asp-for="@item.PlateNumber"/>
+                            <input type="submit" value="Delete" class="btn btn-danger"/>
+                        </form>
+                    </td>
+
+                </tr>
+            }
+            </tbody>
+        </table>
+        @using (Html.BeginForm("AddCar", "Car", FormMethod.Post, new { @class = "form-horizontal" }))
+        {
+            <legend>New Car</legend>
+            <div class="form-group">
+                <label for="number" class="col-lg-2 control-label">Owner:</label>
+                <div class="col-lg-10">
+                        <input type="text" autofocus="autofocus" name="Owner" title="Owner" class="form-control" id="number" required />
+                </div>
+                </div>
+            <div class="form-group">
+                <label for="name" class="col-lg-2 control-label">Make</label>
+                <div class="col-lg-10">
+                        <input type="text" autofocus="autofocus" name="carMake" title="CarMake" class="form-control" id="name" required />
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="number" class="col-lg-2 control-label">Plate #</label>
+                <div class="col-lg-10">
+                        <input type="text" autofocus="autofocus" name="plateNumber" title="PlateNumber" class="form-control" id="number" required />
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="number" class="col-lg-4 control-label">Parking Space #</label>
+                <div class="col-lg-10">
+                        <select id="ParkingSpaceNum" name="ParkingSpaceNum" required>
+                        <option value="001A">001A</option>
+                        <option value="002A">002A</option>
+                        <option value="003A">003A</option>
+                        <option value="004A">004A</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="number" class="col-lg-2 control-label">Date/Time</label>
+                <div class="col-lg-10">
+                        <input type="datetime-local" autofocus="autofocus" name="DateTime" title="PlateNumber" class="form-control" id="number" required />
+                </div>
+            </div>
+           <div class="form-group">
+                <label for="number" class="col-lg-4 control-label">Amount(1$ per hour)</label>
+                <div class="col-lg-10">
+                        <input type="number" autofocus="autofocus" name="Paid" title="Paid" class="form-control" id="number" required />
+                </div>
+                </div>
+            <div class="form-group">
+                <div class="col-lg-10 mt-2 col-lg-offset-2">
+                    <button type="submit" class="btn btn-success">Add</button>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+</div>
