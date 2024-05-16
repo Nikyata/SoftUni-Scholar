@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net8.0\04. Caesar Cipher.exe
+C:\Users\nikyata\source\repos\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net8.0\04. Caesar Cipher.deps.json
+C:\Users\nikyata\source\repos\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net8.0\04. Caesar Cipher.runtimeconfig.json
+C:\Users\nikyata\source\repos\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net8.0\04. Caesar Cipher.dll
+C:\Users\nikyata\source\repos\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net8.0\04. Caesar Cipher.pdb
+C:\Users\nikyata\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.dll
+C:\Users\nikyata\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\refint\04. Caesar Cipher.dll
+C:\Users\nikyata\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.pdb
+C:\Users\nikyata\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\ref\04. Caesar Cipher.dll

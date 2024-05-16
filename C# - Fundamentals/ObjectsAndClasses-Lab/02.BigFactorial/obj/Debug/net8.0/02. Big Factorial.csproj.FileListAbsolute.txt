@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\04. Students\02. Big Factorial\bin\Debug\net8.0\02. Big Factorial.exe
+C:\Users\nikyata\source\repos\04. Students\02. Big Factorial\bin\Debug\net8.0\02. Big Factorial.deps.json
+C:\Users\nikyata\source\repos\04. Students\02. Big Factorial\bin\Debug\net8.0\02. Big Factorial.runtimeconfig.json
+C:\Users\nikyata\source\repos\04. Students\02. Big Factorial\bin\Debug\net8.0\02. Big Factorial.dll
+C:\Users\nikyata\source\repos\04. Students\02. Big Factorial\bin\Debug\net8.0\02. Big Factorial.pdb
+C:\Users\nikyata\source\repos\04. Students\02. Big Factorial\obj\Debug\net8.0\02. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\04. Students\02. Big Factorial\obj\Debug\net8.0\02. Big Factorial.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\04. Students\02. Big Factorial\obj\Debug\net8.0\02. Big Factorial.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\04. Students\02. Big Factorial\obj\Debug\net8.0\02. Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\04. Students\02. Big Factorial\obj\Debug\net8.0\02. Big Factorial.dll
+C:\Users\nikyata\source\repos\04. Students\02. Big Factorial\obj\Debug\net8.0\refint\02. Big Factorial.dll
+C:\Users\nikyata\source\repos\04. Students\02. Big Factorial\obj\Debug\net8.0\02. Big Factorial.pdb
+C:\Users\nikyata\source\repos\04. Students\02. Big Factorial\obj\Debug\net8.0\02. Big Factorial.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\04. Students\02. Big Factorial\obj\Debug\net8.0\ref\02. Big Factorial.dll

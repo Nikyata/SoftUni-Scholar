@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Raw Data\bin\Debug\net8.0\04. Raw Data.exe
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Raw Data\bin\Debug\net8.0\04. Raw Data.deps.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Raw Data\bin\Debug\net8.0\04. Raw Data.runtimeconfig.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Raw Data\bin\Debug\net8.0\04. Raw Data.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Raw Data\bin\Debug\net8.0\04. Raw Data.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Raw Data\obj\Debug\net8.0\04. Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Raw Data\obj\Debug\net8.0\04. Raw Data.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Raw Data\obj\Debug\net8.0\04. Raw Data.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Raw Data\obj\Debug\net8.0\04. Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Raw Data\obj\Debug\net8.0\04. Raw Data.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Raw Data\obj\Debug\net8.0\refint\04. Raw Data.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Raw Data\obj\Debug\net8.0\04. Raw Data.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Raw Data\obj\Debug\net8.0\04. Raw Data.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Raw Data\obj\Debug\net8.0\ref\04. Raw Data.dll

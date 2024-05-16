@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12C1845C-6B90-432C-8AA4-C3A6925DE603}|07. Company Users\\07. Company Users.csproj|c:\\users\\nikyata\\source\\repos\\associative arrays - lab\\07. company users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C1845C-6B90-432C-8AA4-C3A6925DE603}|07. Company Users\\07. Company Users.csproj|solutionrelative:07. company users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90771F22-ADE8-4D54-8901-292C8D781D62}|05. Courses\\05. Courses.csproj|c:\\users\\nikyata\\source\\repos\\associative arrays - lab\\05. courses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90771F22-ADE8-4D54-8901-292C8D781D62}|05. Courses\\05. Courses.csproj|solutionrelative:05. courses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D86914-D814-4D75-8773-56D5F98C6D4E}|04. SoftUni Parking\\04. SoftUni Parking.csproj|c:\\users\\nikyata\\source\\repos\\associative arrays - lab\\04. softuni parking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D86914-D814-4D75-8773-56D5F98C6D4E}|04. SoftUni Parking\\04. SoftUni Parking.csproj|solutionrelative:04. softuni parking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8E0E90-7AD3-4B7B-8BF5-A3A9B1B3CAA0}|03. Orders\\03. Orders.csproj|c:\\users\\nikyata\\source\\repos\\associative arrays - lab\\03. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8E0E90-7AD3-4B7B-8BF5-A3A9B1B3CAA0}|03. Orders\\03. Orders.csproj|solutionrelative:03. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2347F2EA-3D1B-4C04-B77C-881B8285F128}|06. Student Academy\\06. Student Academy.csproj|c:\\users\\nikyata\\source\\repos\\associative arrays - lab\\06. student academy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2347F2EA-3D1B-4C04-B77C-881B8285F128}|06. Student Academy\\06. Student Academy.csproj|solutionrelative:06. student academy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - Lab\\07. Company Users\\Program.cs",
+              "RelativeDocumentMoniker": "07. Company Users\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - Lab\\07. Company Users\\Program.cs",
+              "RelativeToolTip": "07. Company Users\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T08:12:17.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - Lab\\06. Student Academy\\Program.cs",
+              "RelativeDocumentMoniker": "06. Student Academy\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - Lab\\06. Student Academy\\Program.cs",
+              "RelativeToolTip": "06. Student Academy\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T07:50:06.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - Lab\\05. Courses\\Program.cs",
+              "RelativeDocumentMoniker": "05. Courses\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - Lab\\05. Courses\\Program.cs",
+              "RelativeToolTip": "05. Courses\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:53:37.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - Lab\\04. SoftUni Parking\\Program.cs",
+              "RelativeDocumentMoniker": "04. SoftUni Parking\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - Lab\\04. SoftUni Parking\\Program.cs",
+              "RelativeToolTip": "04. SoftUni Parking\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:26:20.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - Lab\\03. Orders\\Program.cs",
+              "RelativeDocumentMoniker": "03. Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - Lab\\03. Orders\\Program.cs",
+              "RelativeToolTip": "03. Orders\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:36:55.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\04. Students\07. Vehicle Catalogue\bin\Debug\net8.0\07. Vehicle Catalogue.exe
+C:\Users\nikyata\source\repos\04. Students\07. Vehicle Catalogue\bin\Debug\net8.0\07. Vehicle Catalogue.deps.json
+C:\Users\nikyata\source\repos\04. Students\07. Vehicle Catalogue\bin\Debug\net8.0\07. Vehicle Catalogue.runtimeconfig.json
+C:\Users\nikyata\source\repos\04. Students\07. Vehicle Catalogue\bin\Debug\net8.0\07. Vehicle Catalogue.dll
+C:\Users\nikyata\source\repos\04. Students\07. Vehicle Catalogue\bin\Debug\net8.0\07. Vehicle Catalogue.pdb
+C:\Users\nikyata\source\repos\04. Students\07. Vehicle Catalogue\obj\Debug\net8.0\07. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\04. Students\07. Vehicle Catalogue\obj\Debug\net8.0\07. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\04. Students\07. Vehicle Catalogue\obj\Debug\net8.0\07. Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\04. Students\07. Vehicle Catalogue\obj\Debug\net8.0\07. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\04. Students\07. Vehicle Catalogue\obj\Debug\net8.0\07. Vehicle Catalogue.dll
+C:\Users\nikyata\source\repos\04. Students\07. Vehicle Catalogue\obj\Debug\net8.0\refint\07. Vehicle Catalogue.dll
+C:\Users\nikyata\source\repos\04. Students\07. Vehicle Catalogue\obj\Debug\net8.0\07. Vehicle Catalogue.pdb
+C:\Users\nikyata\source\repos\04. Students\07. Vehicle Catalogue\obj\Debug\net8.0\07. Vehicle Catalogue.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\04. Students\07. Vehicle Catalogue\obj\Debug\net8.0\ref\07. Vehicle Catalogue.dll

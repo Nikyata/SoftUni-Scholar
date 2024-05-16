@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net8.0\05. Digits, Letters and Other.exe
+C:\Users\nikyata\source\repos\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net8.0\05. Digits, Letters and Other.deps.json
+C:\Users\nikyata\source\repos\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net8.0\05. Digits, Letters and Other.runtimeconfig.json
+C:\Users\nikyata\source\repos\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net8.0\05. Digits, Letters and Other.dll
+C:\Users\nikyata\source\repos\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net8.0\05. Digits, Letters and Other.pdb
+C:\Users\nikyata\source\repos\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net8.0\05. Digits, Letters and Other.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net8.0\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net8.0\05. Digits, Letters and Other.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net8.0\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net8.0\05. Digits, Letters and Other.dll
+C:\Users\nikyata\source\repos\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net8.0\refint\05. Digits, Letters and Other.dll
+C:\Users\nikyata\source\repos\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net8.0\05. Digits, Letters and Other.pdb
+C:\Users\nikyata\source\repos\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net8.0\05. Digits, Letters and Other.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net8.0\ref\05. Digits, Letters and Other.dll

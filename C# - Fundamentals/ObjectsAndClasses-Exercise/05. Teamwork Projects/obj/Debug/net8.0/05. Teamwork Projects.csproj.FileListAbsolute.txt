@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\net8.0\05. Teamwork Projects.exe
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\net8.0\05. Teamwork Projects.deps.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\net8.0\05. Teamwork Projects.runtimeconfig.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\net8.0\05. Teamwork Projects.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\net8.0\05. Teamwork Projects.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net8.0\05. Teamwork Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net8.0\05. Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net8.0\05. Teamwork Projects.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net8.0\05. Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net8.0\05. Teamwork Projects.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net8.0\refint\05. Teamwork Projects.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net8.0\05. Teamwork Projects.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net8.0\05. Teamwork Projects.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\net8.0\ref\05. Teamwork Projects.dll

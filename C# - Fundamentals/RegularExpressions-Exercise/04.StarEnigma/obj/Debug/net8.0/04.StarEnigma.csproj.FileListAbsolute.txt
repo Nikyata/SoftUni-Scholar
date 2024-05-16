@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\net8.0\04.StarEnigma.exe
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\net8.0\04.StarEnigma.deps.json
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\net8.0\04.StarEnigma.runtimeconfig.json
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\net8.0\04.StarEnigma.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\04.StarEnigma\bin\Debug\net8.0\04.StarEnigma.pdb
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net8.0\refint\04.StarEnigma.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.pdb
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net8.0\04.StarEnigma.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\04.StarEnigma\obj\Debug\net8.0\ref\04.StarEnigma.dll

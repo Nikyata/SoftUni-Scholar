@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86B551C7-5B94-45B0-9543-39A774BB5ABA}|08. Letters Change Numbers\\08. Letters Change Numbers.csproj|c:\\users\\nikyata\\source\\repos\\text processing - exercise\\08. letters change numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B551C7-5B94-45B0-9543-39A774BB5ABA}|08. Letters Change Numbers\\08. Letters Change Numbers.csproj|solutionrelative:08. letters change numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E86AB1-0607-4CE2-800E-98E70F9F6504}|07. String Explosion\\07. String Explosion.csproj|c:\\users\\nikyata\\source\\repos\\text processing - exercise\\07. string explosion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E86AB1-0607-4CE2-800E-98E70F9F6504}|07. String Explosion\\07. String Explosion.csproj|solutionrelative:07. string explosion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE02F28-432E-44E1-9813-D827FDA999B7}|06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj|c:\\users\\nikyata\\source\\repos\\text processing - exercise\\06. replace repeating chars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE02F28-432E-44E1-9813-D827FDA999B7}|06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj|solutionrelative:06. replace repeating chars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC1BBD6-F834-4A08-8C6E-2C57F1526447}|05. Multiply Big Number\\05. Multiply Big Number.csproj|c:\\users\\nikyata\\source\\repos\\text processing - exercise\\05. multiply big number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC1BBD6-F834-4A08-8C6E-2C57F1526447}|05. Multiply Big Number\\05. Multiply Big Number.csproj|solutionrelative:05. multiply big number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3235E6-F47F-4BA5-A614-82147D6D7E84}|04. Caesar Cipher\\04. Caesar Cipher.csproj|c:\\users\\nikyata\\source\\repos\\text processing - exercise\\04. caesar cipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3235E6-F47F-4BA5-A614-82147D6D7E84}|04. Caesar Cipher\\04. Caesar Cipher.csproj|solutionrelative:04. caesar cipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F98A89-13FF-47C3-85D7-52FFF7F5C66B}|03. Extract File\\03. Extract File.csproj|c:\\users\\nikyata\\source\\repos\\text processing - exercise\\03. extract file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F98A89-13FF-47C3-85D7-52FFF7F5C66B}|03. Extract File\\03. Extract File.csproj|solutionrelative:03. extract file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AB06DA-7B2E-4C43-A96C-1A133E5A6A93}|02. Character Multiplier\\02. Character Multiplier.csproj|c:\\users\\nikyata\\source\\repos\\text processing - exercise\\02. character multiplier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AB06DA-7B2E-4C43-A96C-1A133E5A6A93}|02. Character Multiplier\\02. Character Multiplier.csproj|solutionrelative:02. character multiplier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2127C0A-D2F2-4928-ABC9-AB8B80EDEAEA}|01. Valid Usernames\\01. Valid Usernames.csproj|c:\\users\\nikyata\\source\\repos\\text processing - exercise\\01. valid usernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2127C0A-D2F2-4928-ABC9-AB8B80EDEAEA}|01. Valid Usernames\\01. Valid Usernames.csproj|solutionrelative:01. valid usernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\08. Letters Change Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "08. Letters Change Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\08. Letters Change Numbers\\Program.cs",
+              "RelativeToolTip": "08. Letters Change Numbers\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:35:52.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\07. String Explosion\\Program.cs",
+              "RelativeDocumentMoniker": "07. String Explosion\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\07. String Explosion\\Program.cs",
+              "RelativeToolTip": "07. String Explosion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:23:48.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\06. Replace Repeating Chars\\Program.cs",
+              "RelativeDocumentMoniker": "06. Replace Repeating Chars\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\06. Replace Repeating Chars\\Program.cs",
+              "RelativeToolTip": "06. Replace Repeating Chars\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwA8AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:06:19.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\05. Multiply Big Number\\Program.cs",
+              "RelativeDocumentMoniker": "05. Multiply Big Number\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\05. Multiply Big Number\\Program.cs",
+              "RelativeToolTip": "05. Multiply Big Number\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:48:27.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\04. Caesar Cipher\\Program.cs",
+              "RelativeDocumentMoniker": "04. Caesar Cipher\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\04. Caesar Cipher\\Program.cs",
+              "RelativeToolTip": "04. Caesar Cipher\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:41:56.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\03. Extract File\\Program.cs",
+              "RelativeDocumentMoniker": "03. Extract File\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\03. Extract File\\Program.cs",
+              "RelativeToolTip": "03. Extract File\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:35:10.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\02. Character Multiplier\\Program.cs",
+              "RelativeDocumentMoniker": "02. Character Multiplier\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\02. Character Multiplier\\Program.cs",
+              "RelativeToolTip": "02. Character Multiplier\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:25:34.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\01. Valid Usernames\\Program.cs",
+              "RelativeDocumentMoniker": "01. Valid Usernames\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Exercise\\01. Valid Usernames\\Program.cs",
+              "RelativeToolTip": "01. Valid Usernames\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:11:27.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

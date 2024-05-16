@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net8.0\01. Extract Person Information.exe
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net8.0\01. Extract Person Information.deps.json
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net8.0\01. Extract Person Information.runtimeconfig.json
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net8.0\01. Extract Person Information.dll
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net8.0\01. Extract Person Information.pdb
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net8.0\01. Extract Person Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net8.0\01. Extract Person Information.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net8.0\01. Extract Person Information.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net8.0\01. Extract Person Information.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net8.0\01. Extract Person Information.dll
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net8.0\refint\01. Extract Person Information.dll
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net8.0\01. Extract Person Information.pdb
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net8.0\01. Extract Person Information.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net8.0\ref\01. Extract Person Information.dll

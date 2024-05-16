@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikyata\\source\\repos\\RegularExpressions-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E10B2CC-8B7E-4110-8BCF-DECAF6B692F3}|03. Match Dates\\03. Match Dates.csproj|c:\\users\\nikyata\\source\\repos\\regularexpressions-lab\\03. match dates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E10B2CC-8B7E-4110-8BCF-DECAF6B692F3}|03. Match Dates\\03. Match Dates.csproj|solutionrelative:03. match dates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0380B273-4ABB-43F1-B1B7-6F292574D06B}|02.MatchPhoneNumber\\02.MatchPhoneNumber.csproj|c:\\users\\nikyata\\source\\repos\\regularexpressions-lab\\02.matchphonenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0380B273-4ABB-43F1-B1B7-6F292574D06B}|02.MatchPhoneNumber\\02.MatchPhoneNumber.csproj|solutionrelative:02.matchphonenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737A512E-13D9-42FC-929B-123CF47CB058}|01.MatchFullName\\01.MatchFullName.csproj|c:\\users\\nikyata\\source\\repos\\regularexpressions-lab\\01.matchfullname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737A512E-13D9-42FC-929B-123CF47CB058}|01.MatchFullName\\01.MatchFullName.csproj|solutionrelative:01.matchfullname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\RegularExpressions-Lab\\03. Match Dates\\Program.cs",
+              "RelativeDocumentMoniker": "03. Match Dates\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\RegularExpressions-Lab\\03. Match Dates\\Program.cs",
+              "RelativeToolTip": "03. Match Dates\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:43:54.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\RegularExpressions-Lab\\02.MatchPhoneNumber\\Program.cs",
+              "RelativeDocumentMoniker": "02.MatchPhoneNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\RegularExpressions-Lab\\02.MatchPhoneNumber\\Program.cs",
+              "RelativeToolTip": "02.MatchPhoneNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T07:00:16.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\RegularExpressions-Lab\\01.MatchFullName\\Program.cs",
+              "RelativeDocumentMoniker": "01.MatchFullName\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\RegularExpressions-Lab\\01.MatchFullName\\Program.cs",
+              "RelativeToolTip": "01.MatchFullName\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:50:01.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

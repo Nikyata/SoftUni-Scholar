@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\02. Articles\bin\Debug\net8.0\02. Articles.exe
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\02. Articles\bin\Debug\net8.0\02. Articles.deps.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\02. Articles\bin\Debug\net8.0\02. Articles.runtimeconfig.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\02. Articles\bin\Debug\net8.0\02. Articles.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\02. Articles\bin\Debug\net8.0\02. Articles.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\02. Articles\obj\Debug\net8.0\02. Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\02. Articles\obj\Debug\net8.0\02. Articles.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\02. Articles\obj\Debug\net8.0\02. Articles.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\02. Articles\obj\Debug\net8.0\02. Articles.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\02. Articles\obj\Debug\net8.0\02. Articles.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\02. Articles\obj\Debug\net8.0\refint\02. Articles.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\02. Articles\obj\Debug\net8.0\02. Articles.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\02. Articles\obj\Debug\net8.0\02. Articles.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\02. Articles\obj\Debug\net8.0\ref\02. Articles.dll

@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\01.Furniture\bin\Debug\net8.0\01.Furniture.exe
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\01.Furniture\bin\Debug\net8.0\01.Furniture.deps.json
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\01.Furniture\bin\Debug\net8.0\01.Furniture.runtimeconfig.json
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\01.Furniture\bin\Debug\net8.0\01.Furniture.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\01.Furniture\bin\Debug\net8.0\01.Furniture.pdb
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\01.Furniture\obj\Debug\net8.0\01.Furniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\01.Furniture\obj\Debug\net8.0\01.Furniture.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\01.Furniture\obj\Debug\net8.0\01.Furniture.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\01.Furniture\obj\Debug\net8.0\01.Furniture.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\01.Furniture\obj\Debug\net8.0\01.Furniture.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\01.Furniture\obj\Debug\net8.0\refint\01.Furniture.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\01.Furniture\obj\Debug\net8.0\01.Furniture.pdb
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\01.Furniture\obj\Debug\net8.0\01.Furniture.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\01.Furniture\obj\Debug\net8.0\ref\01.Furniture.dll

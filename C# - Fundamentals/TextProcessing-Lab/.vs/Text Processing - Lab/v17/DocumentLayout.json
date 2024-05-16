@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6CCAD7-D9C5-4286-86CE-2573E82D1A08}|05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj|c:\\users\\nikyata\\source\\repos\\text processing - lab\\05. digits, letters and other\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6CCAD7-D9C5-4286-86CE-2573E82D1A08}|05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj|solutionrelative:05. digits, letters and other\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C5AADA-EB76-4DBD-A009-FF1B10A366D1}|04. Text Filter\\04. Text Filter.csproj|c:\\users\\nikyata\\source\\repos\\text processing - lab\\04. text filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C5AADA-EB76-4DBD-A009-FF1B10A366D1}|04. Text Filter\\04. Text Filter.csproj|solutionrelative:04. text filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762B34AC-98E3-4097-8D51-8CCCE57450B0}|03. Substring\\03. Substring.csproj|c:\\users\\nikyata\\source\\repos\\text processing - lab\\03. substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762B34AC-98E3-4097-8D51-8CCCE57450B0}|03. Substring\\03. Substring.csproj|solutionrelative:03. substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FA3BA9-B104-4A2E-9323-2BFBDA026962}|02. Repeat Strings\\02. Repeat Strings.csproj|c:\\users\\nikyata\\source\\repos\\text processing - lab\\02. repeat strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FA3BA9-B104-4A2E-9323-2BFBDA026962}|02. Repeat Strings\\02. Repeat Strings.csproj|solutionrelative:02. repeat strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B876F46F-3A46-48B6-A7EE-B825353CA915}|01.Reverse Strings\\01.Reverse Strings.csproj|c:\\users\\nikyata\\source\\repos\\text processing - lab\\01.reverse strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B876F46F-3A46-48B6-A7EE-B825353CA915}|01.Reverse Strings\\01.Reverse Strings.csproj|solutionrelative:01.reverse strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Lab\\05. Digits, Letters and Other\\Program.cs",
+              "RelativeDocumentMoniker": "05. Digits, Letters and Other\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Lab\\05. Digits, Letters and Other\\Program.cs",
+              "RelativeToolTip": "05. Digits, Letters and Other\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:05:55.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Lab\\04. Text Filter\\Program.cs",
+              "RelativeDocumentMoniker": "04. Text Filter\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Lab\\04. Text Filter\\Program.cs",
+              "RelativeToolTip": "04. Text Filter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:59:26.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Lab\\03. Substring\\Program.cs",
+              "RelativeDocumentMoniker": "03. Substring\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Lab\\03. Substring\\Program.cs",
+              "RelativeToolTip": "03. Substring\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:48:58.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Lab\\02. Repeat Strings\\Program.cs",
+              "RelativeDocumentMoniker": "02. Repeat Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Lab\\02. Repeat Strings\\Program.cs",
+              "RelativeToolTip": "02. Repeat Strings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:44:46.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Lab\\01.Reverse Strings\\Program.cs",
+              "RelativeDocumentMoniker": "01.Reverse Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - Lab\\01.Reverse Strings\\Program.cs",
+              "RelativeToolTip": "01.Reverse Strings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:27:18.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

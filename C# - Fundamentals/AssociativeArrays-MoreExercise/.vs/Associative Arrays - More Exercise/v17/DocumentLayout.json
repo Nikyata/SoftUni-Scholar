@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - More Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F33D93-C844-4912-99E2-9B53AC23992D}|05. Dragon Army\\05. Dragon Army.csproj|c:\\users\\nikyata\\source\\repos\\associative arrays - more exercise\\05. dragon army\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F33D93-C844-4912-99E2-9B53AC23992D}|05. Dragon Army\\05. Dragon Army.csproj|solutionrelative:05. dragon army\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EC64FB-F74D-48DF-B6E0-EDA5FD8DD57B}|04.Snowwhite\\04.Snowwhite.csproj|c:\\users\\nikyata\\source\\repos\\associative arrays - more exercise\\04.snowwhite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EC64FB-F74D-48DF-B6E0-EDA5FD8DD57B}|04.Snowwhite\\04.Snowwhite.csproj|solutionrelative:04.snowwhite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502CBE55-1A6A-42CF-BBF0-E2092DAD7FF6}|03.MOBAChallenger\\03.MOBAChallenger.csproj|c:\\users\\nikyata\\source\\repos\\associative arrays - more exercise\\03.mobachallenger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502CBE55-1A6A-42CF-BBF0-E2092DAD7FF6}|03.MOBAChallenger\\03.MOBAChallenger.csproj|solutionrelative:03.mobachallenger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C924912-6FE7-4CFC-BCBC-3E1DA2C713B4}|02.Judge\\02.Judge.csproj|c:\\users\\nikyata\\source\\repos\\associative arrays - more exercise\\02.judge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C924912-6FE7-4CFC-BCBC-3E1DA2C713B4}|02.Judge\\02.Judge.csproj|solutionrelative:02.judge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF454B70-881C-4B7A-96CA-B9288333B2F8}|01. Ranking\\01. Ranking.csproj|c:\\users\\nikyata\\source\\repos\\associative arrays - more exercise\\01. ranking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF454B70-881C-4B7A-96CA-B9288333B2F8}|01. Ranking\\01. Ranking.csproj|solutionrelative:01. ranking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - More Exercise\\05. Dragon Army\\Program.cs",
+              "RelativeDocumentMoniker": "05. Dragon Army\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - More Exercise\\05. Dragon Army\\Program.cs",
+              "RelativeToolTip": "05. Dragon Army\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAYwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:11:59.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - More Exercise\\04.Snowwhite\\Program.cs",
+              "RelativeDocumentMoniker": "04.Snowwhite\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - More Exercise\\04.Snowwhite\\Program.cs",
+              "RelativeToolTip": "04.Snowwhite\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwC8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:51:58.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - More Exercise\\03.MOBAChallenger\\Program.cs",
+              "RelativeDocumentMoniker": "03.MOBAChallenger\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - More Exercise\\03.MOBAChallenger\\Program.cs",
+              "RelativeToolTip": "03.MOBAChallenger\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwEsAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:59:51.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - More Exercise\\02.Judge\\Program.cs",
+              "RelativeDocumentMoniker": "02.Judge\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - More Exercise\\02.Judge\\Program.cs",
+              "RelativeToolTip": "02.Judge\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAqwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:39:23.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - More Exercise\\01. Ranking\\Program.cs",
+              "RelativeDocumentMoniker": "01. Ranking\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Associative Arrays - More Exercise\\01. Ranking\\Program.cs",
+              "RelativeToolTip": "01. Ranking\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAqwFwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:34:02.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

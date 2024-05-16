@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net8.0\08. Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net8.0\08. Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net8.0\08. Letters Change Numbers.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net8.0\08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net8.0\08. Letters Change Numbers.exe
+C:\Users\nikyata\source\repos\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net8.0\08. Letters Change Numbers.deps.json
+C:\Users\nikyata\source\repos\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net8.0\08. Letters Change Numbers.runtimeconfig.json
+C:\Users\nikyata\source\repos\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net8.0\08. Letters Change Numbers.dll
+C:\Users\nikyata\source\repos\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net8.0\08. Letters Change Numbers.pdb
+C:\Users\nikyata\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net8.0\08. Letters Change Numbers.dll
+C:\Users\nikyata\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net8.0\refint\08. Letters Change Numbers.dll
+C:\Users\nikyata\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net8.0\08. Letters Change Numbers.pdb
+C:\Users\nikyata\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net8.0\08. Letters Change Numbers.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net8.0\ref\08. Letters Change Numbers.dll

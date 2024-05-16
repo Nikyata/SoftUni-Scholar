@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net8.0\01. Ranking.exe
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net8.0\01. Ranking.deps.json
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net8.0\01. Ranking.runtimeconfig.json
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net8.0\01. Ranking.dll
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net8.0\01. Ranking.pdb
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net8.0\01. Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net8.0\01. Ranking.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net8.0\01. Ranking.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net8.0\01. Ranking.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net8.0\01. Ranking.dll
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net8.0\refint\01. Ranking.dll
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net8.0\01. Ranking.pdb
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net8.0\01. Ranking.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net8.0\ref\01. Ranking.dll

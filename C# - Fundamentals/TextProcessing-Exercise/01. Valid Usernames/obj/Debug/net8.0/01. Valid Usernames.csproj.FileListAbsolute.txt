@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net8.0\01. Valid Usernames.exe
+C:\Users\nikyata\source\repos\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net8.0\01. Valid Usernames.deps.json
+C:\Users\nikyata\source\repos\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net8.0\01. Valid Usernames.runtimeconfig.json
+C:\Users\nikyata\source\repos\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net8.0\01. Valid Usernames.dll
+C:\Users\nikyata\source\repos\Text Processing - Exercise\01. Valid Usernames\bin\Debug\net8.0\01. Valid Usernames.pdb
+C:\Users\nikyata\source\repos\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\01. Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\01. Valid Usernames.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\01. Valid Usernames.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\01. Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\01. Valid Usernames.dll
+C:\Users\nikyata\source\repos\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\refint\01. Valid Usernames.dll
+C:\Users\nikyata\source\repos\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\01. Valid Usernames.pdb
+C:\Users\nikyata\source\repos\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\01. Valid Usernames.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Text Processing - Exercise\01. Valid Usernames\obj\Debug\net8.0\ref\01. Valid Usernames.dll

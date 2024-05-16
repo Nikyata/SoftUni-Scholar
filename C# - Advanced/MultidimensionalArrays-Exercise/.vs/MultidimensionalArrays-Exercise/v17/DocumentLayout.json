@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEA1D77-ACFB-4B56-B630-D9F9D8C6F15F}|8.Bombs\\8.Bombs.csproj|c:\\users\\nikyata\\source\\repos\\multidimensionalarrays-exercise\\8.bombs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEA1D77-ACFB-4B56-B630-D9F9D8C6F15F}|8.Bombs\\8.Bombs.csproj|solutionrelative:8.bombs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049EB1C3-6A17-4190-8765-C51356528259}|2.SquaresinMatrix\\2.SquaresinMatrix.csproj|c:\\users\\nikyata\\source\\repos\\multidimensionalarrays-exercise\\2.squaresinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049EB1C3-6A17-4190-8765-C51356528259}|2.SquaresinMatrix\\2.SquaresinMatrix.csproj|solutionrelative:2.squaresinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779B943D-528D-40C1-893D-85F91AB5D7AE}|10.RadioactiveMutantVampireBunnies\\10.RadioactiveMutantVampireBunnies.csproj|c:\\users\\nikyata\\source\\repos\\multidimensionalarrays-exercise\\10.radioactivemutantvampirebunnies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779B943D-528D-40C1-893D-85F91AB5D7AE}|10.RadioactiveMutantVampireBunnies\\10.RadioactiveMutantVampireBunnies.csproj|solutionrelative:10.radioactivemutantvampirebunnies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969A9C47-0343-4DBA-81D5-7DDE6E6B8533}|7.KnightGame\\7.KnightGame.csproj|c:\\users\\nikyata\\source\\repos\\multidimensionalarrays-exercise\\7.knightgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969A9C47-0343-4DBA-81D5-7DDE6E6B8533}|7.KnightGame\\7.KnightGame.csproj|solutionrelative:7.knightgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBCE35A-37CF-4952-AC61-B650C5413C8E}|6.JaggedArrayManipulator\\6.JaggedArrayManipulator.csproj|c:\\users\\nikyata\\source\\repos\\multidimensionalarrays-exercise\\6.jaggedarraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EBCE35A-37CF-4952-AC61-B650C5413C8E}|6.JaggedArrayManipulator\\6.JaggedArrayManipulator.csproj|solutionrelative:6.jaggedarraymanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5187D1-AAF1-4512-883C-C96A75D799F2}|5.SnakeMoves\\5.SnakeMoves.csproj|c:\\users\\nikyata\\source\\repos\\multidimensionalarrays-exercise\\5.snakemoves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5187D1-AAF1-4512-883C-C96A75D799F2}|5.SnakeMoves\\5.SnakeMoves.csproj|solutionrelative:5.snakemoves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2852-7900-4EDD-B804-7D5674957256}|4.MatrixShuffling\\4.MatrixShuffling.csproj|c:\\users\\nikyata\\source\\repos\\multidimensionalarrays-exercise\\4.matrixshuffling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2852-7900-4EDD-B804-7D5674957256}|4.MatrixShuffling\\4.MatrixShuffling.csproj|solutionrelative:4.matrixshuffling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F1FC8D-E8A6-4A36-B22C-7F3AF20D5F1D}|3. MaximalSum\\3. MaximalSum.csproj|c:\\users\\nikyata\\source\\repos\\multidimensionalarrays-exercise\\3. maximalsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F1FC8D-E8A6-4A36-B22C-7F3AF20D5F1D}|3. MaximalSum\\3. MaximalSum.csproj|solutionrelative:3. maximalsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D25E4B-CD10-4427-B385-EF6D6D450768}|1.DiagonalDifference\\1.DiagonalDifference.csproj|c:\\users\\nikyata\\source\\repos\\multidimensionalarrays-exercise\\1.diagonaldifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D25E4B-CD10-4427-B385-EF6D6D450768}|1.DiagonalDifference\\1.DiagonalDifference.csproj|solutionrelative:1.diagonaldifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\8.Bombs\\Program.cs",
+              "RelativeDocumentMoniker": "8.Bombs\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\8.Bombs\\Program.cs",
+              "RelativeToolTip": "8.Bombs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:09:51.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\10.RadioactiveMutantVampireBunnies\\Program.cs",
+              "RelativeDocumentMoniker": "10.RadioactiveMutantVampireBunnies\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\10.RadioactiveMutantVampireBunnies\\Program.cs",
+              "RelativeToolTip": "10.RadioactiveMutantVampireBunnies\\Program.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAgwLoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:43:17.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\7.KnightGame\\Program.cs",
+              "RelativeDocumentMoniker": "7.KnightGame\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\7.KnightGame\\Program.cs",
+              "RelativeToolTip": "7.KnightGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:00:53.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\6.JaggedArrayManipulator\\Program.cs",
+              "RelativeDocumentMoniker": "6.JaggedArrayManipulator\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\6.JaggedArrayManipulator\\Program.cs",
+              "RelativeToolTip": "6.JaggedArrayManipulator\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:26:50.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\5.SnakeMoves\\Program.cs",
+              "RelativeDocumentMoniker": "5.SnakeMoves\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\5.SnakeMoves\\Program.cs",
+              "RelativeToolTip": "5.SnakeMoves\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:32:26.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\4.MatrixShuffling\\Program.cs",
+              "RelativeDocumentMoniker": "4.MatrixShuffling\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\4.MatrixShuffling\\Program.cs",
+              "RelativeToolTip": "4.MatrixShuffling\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:44:34.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\3. MaximalSum\\Program.cs",
+              "RelativeDocumentMoniker": "3. MaximalSum\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\3. MaximalSum\\Program.cs",
+              "RelativeToolTip": "3. MaximalSum\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:18:57.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\2.SquaresinMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "2.SquaresinMatrix\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\2.SquaresinMatrix\\Program.cs",
+              "RelativeToolTip": "2.SquaresinMatrix\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:06:15.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\1.DiagonalDifference\\Program.cs",
+              "RelativeDocumentMoniker": "1.DiagonalDifference\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\MultidimensionalArrays-Exercise\\1.DiagonalDifference\\Program.cs",
+              "RelativeToolTip": "1.DiagonalDifference\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:54:17.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

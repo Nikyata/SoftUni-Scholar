@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\net8.0\05. Dragon Army.exe
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\net8.0\05. Dragon Army.deps.json
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\net8.0\05. Dragon Army.runtimeconfig.json
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\net8.0\05. Dragon Army.dll
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\05. Dragon Army\bin\Debug\net8.0\05. Dragon Army.pdb
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net8.0\05. Dragon Army.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net8.0\05. Dragon Army.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net8.0\05. Dragon Army.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net8.0\05. Dragon Army.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net8.0\05. Dragon Army.dll
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net8.0\refint\05. Dragon Army.dll
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net8.0\05. Dragon Army.pdb
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net8.0\05. Dragon Army.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\05. Dragon Army\obj\Debug\net8.0\ref\05. Dragon Army.dll

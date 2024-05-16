@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\04.Morse Code Translator\bin\Debug\net8.0\04.Morse Code Translator.exe
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\04.Morse Code Translator\bin\Debug\net8.0\04.Morse Code Translator.deps.json
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\04.Morse Code Translator\bin\Debug\net8.0\04.Morse Code Translator.runtimeconfig.json
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\04.Morse Code Translator\bin\Debug\net8.0\04.Morse Code Translator.dll
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\04.Morse Code Translator\bin\Debug\net8.0\04.Morse Code Translator.pdb
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\04.Morse Code Translator\obj\Debug\net8.0\04.Morse Code Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\04.Morse Code Translator\obj\Debug\net8.0\04.Morse Code Translator.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\04.Morse Code Translator\obj\Debug\net8.0\04.Morse Code Translator.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\04.Morse Code Translator\obj\Debug\net8.0\04.Morse Code Translator.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\04.Morse Code Translator\obj\Debug\net8.0\04.Morse Code Translator.dll
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\04.Morse Code Translator\obj\Debug\net8.0\refint\04.Morse Code Translator.dll
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\04.Morse Code Translator\obj\Debug\net8.0\04.Morse Code Translator.pdb
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\04.Morse Code Translator\obj\Debug\net8.0\04.Morse Code Translator.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\04.Morse Code Translator\obj\Debug\net8.0\ref\04.Morse Code Translator.dll

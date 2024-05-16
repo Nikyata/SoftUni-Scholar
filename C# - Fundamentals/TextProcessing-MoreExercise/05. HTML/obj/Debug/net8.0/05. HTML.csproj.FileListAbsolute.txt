@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\05. HTML\bin\Debug\net8.0\05. HTML.exe
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\05. HTML\bin\Debug\net8.0\05. HTML.deps.json
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\05. HTML\bin\Debug\net8.0\05. HTML.runtimeconfig.json
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\05. HTML\bin\Debug\net8.0\05. HTML.dll
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\05. HTML\bin\Debug\net8.0\05. HTML.pdb
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\05. HTML\obj\Debug\net8.0\05. HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\05. HTML\obj\Debug\net8.0\05. HTML.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\05. HTML\obj\Debug\net8.0\05. HTML.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\05. HTML\obj\Debug\net8.0\05. HTML.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\05. HTML\obj\Debug\net8.0\05. HTML.dll
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\05. HTML\obj\Debug\net8.0\refint\05. HTML.dll
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\05. HTML\obj\Debug\net8.0\05. HTML.pdb
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\05. HTML\obj\Debug\net8.0\05. HTML.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Text Processing - More Exercise\05. HTML\obj\Debug\net8.0\ref\05. HTML.dll

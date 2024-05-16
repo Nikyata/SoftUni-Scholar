@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\net6.0\10.RadioactiveMutantVampireBunnies.exe
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\net6.0\10.RadioactiveMutantVampireBunnies.deps.json
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\net6.0\10.RadioactiveMutantVampireBunnies.runtimeconfig.json
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\net6.0\10.RadioactiveMutantVampireBunnies.dll
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\bin\Debug\net6.0\10.RadioactiveMutantVampireBunnies.pdb
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\10.RadioactiveMutantVampireBunnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\10.RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\10.RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\10.RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\10.RadioactiveMutantVampireBunnies.dll
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\refint\10.RadioactiveMutantVampireBunnies.dll
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\10.RadioactiveMutantVampireBunnies.pdb
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\10.RadioactiveMutantVampireBunnies.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\10.RadioactiveMutantVampireBunnies\obj\Debug\net6.0\ref\10.RadioactiveMutantVampireBunnies.dll

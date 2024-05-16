@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\3. MaximalSum\bin\Debug\net6.0\3. MaximalSum.exe
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\3. MaximalSum\bin\Debug\net6.0\3. MaximalSum.deps.json
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\3. MaximalSum\bin\Debug\net6.0\3. MaximalSum.runtimeconfig.json
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\3. MaximalSum\bin\Debug\net6.0\3. MaximalSum.dll
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\3. MaximalSum\bin\Debug\net6.0\3. MaximalSum.pdb
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\3. MaximalSum\obj\Debug\net6.0\3. MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\3. MaximalSum\obj\Debug\net6.0\3. MaximalSum.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\3. MaximalSum\obj\Debug\net6.0\3. MaximalSum.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\3. MaximalSum\obj\Debug\net6.0\3. MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\3. MaximalSum\obj\Debug\net6.0\3. MaximalSum.dll
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\3. MaximalSum\obj\Debug\net6.0\refint\3. MaximalSum.dll
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\3. MaximalSum\obj\Debug\net6.0\3. MaximalSum.pdb
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\3. MaximalSum\obj\Debug\net6.0\3. MaximalSum.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\3. MaximalSum\obj\Debug\net6.0\ref\3. MaximalSum.dll

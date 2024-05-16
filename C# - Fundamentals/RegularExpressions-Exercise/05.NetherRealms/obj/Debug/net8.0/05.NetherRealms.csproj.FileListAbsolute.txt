@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\net8.0\05.NetherRealms.exe
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\net8.0\05.NetherRealms.deps.json
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\net8.0\05.NetherRealms.runtimeconfig.json
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\net8.0\05.NetherRealms.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\net8.0\05.NetherRealms.pdb
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net8.0\refint\05.NetherRealms.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.pdb
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net8.0\05.NetherRealms.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\net8.0\ref\05.NetherRealms.dll

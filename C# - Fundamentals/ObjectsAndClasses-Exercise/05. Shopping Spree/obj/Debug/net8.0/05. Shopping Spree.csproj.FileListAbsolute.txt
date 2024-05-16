@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Shopping Spree\bin\Debug\net8.0\05. Shopping Spree.exe
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Shopping Spree\bin\Debug\net8.0\05. Shopping Spree.deps.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Shopping Spree\bin\Debug\net8.0\05. Shopping Spree.runtimeconfig.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Shopping Spree\bin\Debug\net8.0\05. Shopping Spree.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Shopping Spree\bin\Debug\net8.0\05. Shopping Spree.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Shopping Spree\obj\Debug\net8.0\05. Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Shopping Spree\obj\Debug\net8.0\05. Shopping Spree.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Shopping Spree\obj\Debug\net8.0\05. Shopping Spree.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Shopping Spree\obj\Debug\net8.0\05. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Shopping Spree\obj\Debug\net8.0\05. Shopping Spree.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Shopping Spree\obj\Debug\net8.0\refint\05. Shopping Spree.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Shopping Spree\obj\Debug\net8.0\05. Shopping Spree.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Shopping Spree\obj\Debug\net8.0\05. Shopping Spree.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\05. Shopping Spree\obj\Debug\net8.0\ref\05. Shopping Spree.dll

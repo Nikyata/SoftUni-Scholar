@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\7.KnightGame\bin\Debug\net6.0\7.KnightGame.exe
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\7.KnightGame\bin\Debug\net6.0\7.KnightGame.deps.json
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\7.KnightGame\bin\Debug\net6.0\7.KnightGame.runtimeconfig.json
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\7.KnightGame\bin\Debug\net6.0\7.KnightGame.dll
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\7.KnightGame\bin\Debug\net6.0\7.KnightGame.pdb
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net6.0\7.KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net6.0\7.KnightGame.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net6.0\7.KnightGame.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net6.0\7.KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net6.0\7.KnightGame.dll
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net6.0\refint\7.KnightGame.dll
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net6.0\7.KnightGame.pdb
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net6.0\7.KnightGame.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\7.KnightGame\obj\Debug\net6.0\ref\7.KnightGame.dll

@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.exe
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.deps.json
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.runtimeconfig.json
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.pdb
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\net8.0\refint\02.MatchPhoneNumber.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.pdb
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\02.MatchPhoneNumber\obj\Debug\net8.0\ref\02.MatchPhoneNumber.dll

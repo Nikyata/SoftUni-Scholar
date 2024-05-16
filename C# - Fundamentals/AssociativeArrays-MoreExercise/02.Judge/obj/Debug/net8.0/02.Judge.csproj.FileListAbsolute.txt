@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\02.Judge\bin\Debug\net8.0\02.Judge.exe
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\02.Judge\bin\Debug\net8.0\02.Judge.deps.json
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\02.Judge\bin\Debug\net8.0\02.Judge.runtimeconfig.json
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\02.Judge\bin\Debug\net8.0\02.Judge.dll
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\02.Judge\bin\Debug\net8.0\02.Judge.pdb
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\02.Judge\obj\Debug\net8.0\02.Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\02.Judge\obj\Debug\net8.0\02.Judge.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\02.Judge\obj\Debug\net8.0\02.Judge.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\02.Judge\obj\Debug\net8.0\02.Judge.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\02.Judge\obj\Debug\net8.0\02.Judge.dll
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\02.Judge\obj\Debug\net8.0\refint\02.Judge.dll
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\02.Judge\obj\Debug\net8.0\02.Judge.pdb
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\02.Judge\obj\Debug\net8.0\02.Judge.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\02.Judge\obj\Debug\net8.0\ref\02.Judge.dll

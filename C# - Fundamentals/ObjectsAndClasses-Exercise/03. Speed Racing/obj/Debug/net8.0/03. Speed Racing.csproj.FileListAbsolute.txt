@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\03. Speed Racing\bin\Debug\net8.0\03. Speed Racing.exe
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\03. Speed Racing\bin\Debug\net8.0\03. Speed Racing.deps.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\03. Speed Racing\bin\Debug\net8.0\03. Speed Racing.runtimeconfig.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\03. Speed Racing\bin\Debug\net8.0\03. Speed Racing.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\03. Speed Racing\bin\Debug\net8.0\03. Speed Racing.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\03. Speed Racing\obj\Debug\net8.0\03. Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\03. Speed Racing\obj\Debug\net8.0\03. Speed Racing.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\03. Speed Racing\obj\Debug\net8.0\03. Speed Racing.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\03. Speed Racing\obj\Debug\net8.0\03. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\03. Speed Racing\obj\Debug\net8.0\03. Speed Racing.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\03. Speed Racing\obj\Debug\net8.0\refint\03. Speed Racing.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\03. Speed Racing\obj\Debug\net8.0\03. Speed Racing.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\03. Speed Racing\obj\Debug\net8.0\03. Speed Racing.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\03. Speed Racing\obj\Debug\net8.0\ref\03. Speed Racing.dll

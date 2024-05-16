@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Text Processing - Lab\02. Repeat Strings\bin\Debug\net8.0\02. Repeat Strings.exe
+C:\Users\nikyata\source\repos\Text Processing - Lab\02. Repeat Strings\bin\Debug\net8.0\02. Repeat Strings.deps.json
+C:\Users\nikyata\source\repos\Text Processing - Lab\02. Repeat Strings\bin\Debug\net8.0\02. Repeat Strings.runtimeconfig.json
+C:\Users\nikyata\source\repos\Text Processing - Lab\02. Repeat Strings\bin\Debug\net8.0\02. Repeat Strings.dll
+C:\Users\nikyata\source\repos\Text Processing - Lab\02. Repeat Strings\bin\Debug\net8.0\02. Repeat Strings.pdb
+C:\Users\nikyata\source\repos\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\02. Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\02. Repeat Strings.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\02. Repeat Strings.dll
+C:\Users\nikyata\source\repos\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\refint\02. Repeat Strings.dll
+C:\Users\nikyata\source\repos\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\02. Repeat Strings.pdb
+C:\Users\nikyata\source\repos\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\02. Repeat Strings.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\ref\02. Repeat Strings.dll

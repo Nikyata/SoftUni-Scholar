@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\04. Word Filter\bin\Debug\net8.0\04. Word Filter.exe
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\04. Word Filter\bin\Debug\net8.0\04. Word Filter.deps.json
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\04. Word Filter\bin\Debug\net8.0\04. Word Filter.runtimeconfig.json
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\04. Word Filter\bin\Debug\net8.0\04. Word Filter.dll
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\04. Word Filter\bin\Debug\net8.0\04. Word Filter.pdb
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\04. Word Filter\obj\Debug\net8.0\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\04. Word Filter\obj\Debug\net8.0\04. Word Filter.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\04. Word Filter\obj\Debug\net8.0\04. Word Filter.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\04. Word Filter\obj\Debug\net8.0\04. Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\04. Word Filter\obj\Debug\net8.0\04. Word Filter.dll
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\04. Word Filter\obj\Debug\net8.0\refint\04. Word Filter.dll
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\04. Word Filter\obj\Debug\net8.0\04. Word Filter.pdb
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\04. Word Filter\obj\Debug\net8.0\04. Word Filter.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\04. Word Filter\obj\Debug\net8.0\ref\04. Word Filter.dll

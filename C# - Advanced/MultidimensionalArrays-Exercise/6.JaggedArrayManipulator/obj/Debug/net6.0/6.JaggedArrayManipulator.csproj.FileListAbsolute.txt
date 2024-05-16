@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\bin\Debug\net6.0\6.JaggedArrayManipulator.exe
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\bin\Debug\net6.0\6.JaggedArrayManipulator.deps.json
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\bin\Debug\net6.0\6.JaggedArrayManipulator.runtimeconfig.json
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\bin\Debug\net6.0\6.JaggedArrayManipulator.dll
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\bin\Debug\net6.0\6.JaggedArrayManipulator.pdb
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net6.0\6.JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net6.0\6.JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net6.0\6.JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net6.0\6.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net6.0\6.JaggedArrayManipulator.dll
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net6.0\refint\6.JaggedArrayManipulator.dll
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net6.0\6.JaggedArrayManipulator.pdb
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net6.0\6.JaggedArrayManipulator.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\6.JaggedArrayManipulator\obj\Debug\net6.0\ref\6.JaggedArrayManipulator.dll

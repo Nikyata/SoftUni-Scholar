@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\04.Snowwhite\bin\Debug\net8.0\04.Snowwhite.exe
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\04.Snowwhite\bin\Debug\net8.0\04.Snowwhite.deps.json
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\04.Snowwhite\bin\Debug\net8.0\04.Snowwhite.runtimeconfig.json
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\04.Snowwhite\bin\Debug\net8.0\04.Snowwhite.dll
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\04.Snowwhite\bin\Debug\net8.0\04.Snowwhite.pdb
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\04.Snowwhite\obj\Debug\net8.0\04.Snowwhite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\04.Snowwhite\obj\Debug\net8.0\04.Snowwhite.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\04.Snowwhite\obj\Debug\net8.0\04.Snowwhite.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\04.Snowwhite\obj\Debug\net8.0\04.Snowwhite.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\04.Snowwhite\obj\Debug\net8.0\04.Snowwhite.dll
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\04.Snowwhite\obj\Debug\net8.0\refint\04.Snowwhite.dll
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\04.Snowwhite\obj\Debug\net8.0\04.Snowwhite.pdb
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\04.Snowwhite\obj\Debug\net8.0\04.Snowwhite.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Associative Arrays - More Exercise\04.Snowwhite\obj\Debug\net8.0\ref\04.Snowwhite.dll

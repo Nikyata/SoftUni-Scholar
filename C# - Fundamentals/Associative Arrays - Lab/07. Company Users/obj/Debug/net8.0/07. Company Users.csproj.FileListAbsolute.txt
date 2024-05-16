@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\07. Company Users\bin\Debug\net8.0\07. Company Users.exe
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\07. Company Users\bin\Debug\net8.0\07. Company Users.deps.json
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\07. Company Users\bin\Debug\net8.0\07. Company Users.runtimeconfig.json
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\07. Company Users\bin\Debug\net8.0\07. Company Users.dll
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\07. Company Users\bin\Debug\net8.0\07. Company Users.pdb
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\07. Company Users\obj\Debug\net8.0\07. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\07. Company Users\obj\Debug\net8.0\07. Company Users.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\07. Company Users\obj\Debug\net8.0\07. Company Users.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\07. Company Users\obj\Debug\net8.0\07. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\07. Company Users\obj\Debug\net8.0\07. Company Users.dll
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\07. Company Users\obj\Debug\net8.0\refint\07. Company Users.dll
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\07. Company Users\obj\Debug\net8.0\07. Company Users.pdb
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\07. Company Users\obj\Debug\net8.0\07. Company Users.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Associative Arrays - Lab\07. Company Users\obj\Debug\net8.0\ref\07. Company Users.dll

@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net6.0\01.CountSameValuesInArray.exe
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net6.0\01.CountSameValuesInArray.deps.json
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net6.0\01.CountSameValuesInArray.runtimeconfig.json
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net6.0\01.CountSameValuesInArray.dll
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net6.0\01.CountSameValuesInArray.pdb
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.dll
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\refint\01.CountSameValuesInArray.dll
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.pdb
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\01.CountSameValuesInArray.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net6.0\ref\01.CountSameValuesInArray.dll

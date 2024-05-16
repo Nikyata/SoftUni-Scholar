@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\01. Company Roster\bin\Debug\net8.0\01. Company Roster.exe
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\01. Company Roster\bin\Debug\net8.0\01. Company Roster.deps.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\01. Company Roster\bin\Debug\net8.0\01. Company Roster.runtimeconfig.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\01. Company Roster\bin\Debug\net8.0\01. Company Roster.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\01. Company Roster\bin\Debug\net8.0\01. Company Roster.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\01. Company Roster\obj\Debug\net8.0\01. Company Roster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\01. Company Roster\obj\Debug\net8.0\01. Company Roster.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\01. Company Roster\obj\Debug\net8.0\01. Company Roster.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\01. Company Roster\obj\Debug\net8.0\01. Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\01. Company Roster\obj\Debug\net8.0\01. Company Roster.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\01. Company Roster\obj\Debug\net8.0\refint\01. Company Roster.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\01. Company Roster\obj\Debug\net8.0\01. Company Roster.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\01. Company Roster\obj\Debug\net8.0\01. Company Roster.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\01. Company Roster\obj\Debug\net8.0\ref\01. Company Roster.dll

@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentAndCountry\bin\Debug\net6.0\05.CitiesbyContinentAndCountry.exe
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentAndCountry\bin\Debug\net6.0\05.CitiesbyContinentAndCountry.deps.json
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentAndCountry\bin\Debug\net6.0\05.CitiesbyContinentAndCountry.runtimeconfig.json
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentAndCountry\bin\Debug\net6.0\05.CitiesbyContinentAndCountry.dll
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentAndCountry\bin\Debug\net6.0\05.CitiesbyContinentAndCountry.pdb
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentAndCountry\obj\Debug\net6.0\05.CitiesbyContinentAndCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentAndCountry\obj\Debug\net6.0\05.CitiesbyContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentAndCountry\obj\Debug\net6.0\05.CitiesbyContinentAndCountry.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentAndCountry\obj\Debug\net6.0\05.CitiesbyContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentAndCountry\obj\Debug\net6.0\05.CitiesbyContinentAndCountry.dll
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentAndCountry\obj\Debug\net6.0\refint\05.CitiesbyContinentAndCountry.dll
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentAndCountry\obj\Debug\net6.0\05.CitiesbyContinentAndCountry.pdb
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentAndCountry\obj\Debug\net6.0\05.CitiesbyContinentAndCountry.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\SetsAndDictionariesAdvanced-Lab\05.CitiesbyContinentAndCountry\obj\Debug\net6.0\ref\05.CitiesbyContinentAndCountry.dll

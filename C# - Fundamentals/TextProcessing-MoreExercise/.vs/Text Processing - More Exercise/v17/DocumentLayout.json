@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikyata\\source\\repos\\Text Processing - More Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A67E98DE-D10A-443A-BACB-31969B17077F}|05. HTML\\05. HTML.csproj|c:\\users\\nikyata\\source\\repos\\text processing - more exercise\\05. html\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67E98DE-D10A-443A-BACB-31969B17077F}|05. HTML\\05. HTML.csproj|solutionrelative:05. html\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C012B35D-AABE-4B9D-A901-9CFC2A44458A}|04.Morse Code Translator\\04.Morse Code Translator.csproj|c:\\users\\nikyata\\source\\repos\\text processing - more exercise\\04.morse code translator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C012B35D-AABE-4B9D-A901-9CFC2A44458A}|04.Morse Code Translator\\04.Morse Code Translator.csproj|solutionrelative:04.morse code translator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F65BCE-A9A4-412B-92EE-D77DEE16CDAB}|03. Treasure Finder\\03. Treasure Finder.csproj|c:\\users\\nikyata\\source\\repos\\text processing - more exercise\\03. treasure finder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F65BCE-A9A4-412B-92EE-D77DEE16CDAB}|03. Treasure Finder\\03. Treasure Finder.csproj|solutionrelative:03. treasure finder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99889CD4-FEB3-44FC-8DBE-0B140DDD2BCA}|02. Ascii Sumator\\02. Ascii Sumator.csproj|c:\\users\\nikyata\\source\\repos\\text processing - more exercise\\02. ascii sumator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99889CD4-FEB3-44FC-8DBE-0B140DDD2BCA}|02. Ascii Sumator\\02. Ascii Sumator.csproj|solutionrelative:02. ascii sumator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8BA7C5-E70F-4D73-9997-4FAB347D4054}|01. Extract Person Information\\01. Extract Person Information.csproj|c:\\users\\nikyata\\source\\repos\\text processing - more exercise\\01. extract person information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8BA7C5-E70F-4D73-9997-4FAB347D4054}|01. Extract Person Information\\01. Extract Person Information.csproj|solutionrelative:01. extract person information\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - More Exercise\\05. HTML\\Program.cs",
+              "RelativeDocumentMoniker": "05. HTML\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - More Exercise\\05. HTML\\Program.cs",
+              "RelativeToolTip": "05. HTML\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T13:15:41.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - More Exercise\\04.Morse Code Translator\\Program.cs",
+              "RelativeDocumentMoniker": "04.Morse Code Translator\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - More Exercise\\04.Morse Code Translator\\Program.cs",
+              "RelativeToolTip": "04.Morse Code Translator\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:26:10.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - More Exercise\\03. Treasure Finder\\Program.cs",
+              "RelativeDocumentMoniker": "03. Treasure Finder\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - More Exercise\\03. Treasure Finder\\Program.cs",
+              "RelativeToolTip": "03. Treasure Finder\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:07:56.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - More Exercise\\02. Ascii Sumator\\Program.cs",
+              "RelativeDocumentMoniker": "02. Ascii Sumator\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - More Exercise\\02. Ascii Sumator\\Program.cs",
+              "RelativeToolTip": "02. Ascii Sumator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:03:36.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Text Processing - More Exercise\\01. Extract Person Information\\Program.cs",
+              "RelativeDocumentMoniker": "01. Extract Person Information\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Text Processing - More Exercise\\01. Extract Person Information\\Program.cs",
+              "RelativeToolTip": "01. Extract Person Information\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T10:51:31.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

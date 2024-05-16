@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50077ED1-1BB2-4F71-97C2-E0E74C6107C9}|08.SoftUniParty\\08.SoftUniParty.csproj|c:\\users\\nikyata\\source\\repos\\setsanddictionariesadvanced-lab\\08.softuniparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50077ED1-1BB2-4F71-97C2-E0E74C6107C9}|08.SoftUniParty\\08.SoftUniParty.csproj|solutionrelative:08.softuniparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78A9112-A3C7-428D-A5E6-D0DD3B361A85}|07.ParkingLot\\07.ParkingLot.csproj|c:\\users\\nikyata\\source\\repos\\setsanddictionariesadvanced-lab\\07.parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78A9112-A3C7-428D-A5E6-D0DD3B361A85}|07.ParkingLot\\07.ParkingLot.csproj|solutionrelative:07.parkinglot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A0AEE5-222C-49D8-86B7-A3F4A95CE29E}|06.RecordUniqueNames\\06.RecordUniqueNames.csproj|c:\\users\\nikyata\\source\\repos\\setsanddictionariesadvanced-lab\\06.recorduniquenames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A0AEE5-222C-49D8-86B7-A3F4A95CE29E}|06.RecordUniqueNames\\06.RecordUniqueNames.csproj|solutionrelative:06.recorduniquenames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3151E8-CF9A-4E29-9499-451A04EBC0DE}|05.CitiesbyContinentAndCountry\\05.CitiesbyContinentAndCountry.csproj|c:\\users\\nikyata\\source\\repos\\setsanddictionariesadvanced-lab\\05.citiesbycontinentandcountry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3151E8-CF9A-4E29-9499-451A04EBC0DE}|05.CitiesbyContinentAndCountry\\05.CitiesbyContinentAndCountry.csproj|solutionrelative:05.citiesbycontinentandcountry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CFF264-CE0B-43C4-A10F-F70F6213A25C}|04.ProductShop\\04.ProductShop.csproj|c:\\users\\nikyata\\source\\repos\\setsanddictionariesadvanced-lab\\04.productshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CFF264-CE0B-43C4-A10F-F70F6213A25C}|04.ProductShop\\04.ProductShop.csproj|solutionrelative:04.productshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CBE6A2-C1B4-4BEB-967C-4DADA8148D15}|03.Largest3Numbers\\03.Largest3Numbers.csproj|c:\\users\\nikyata\\source\\repos\\setsanddictionariesadvanced-lab\\03.largest3numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CBE6A2-C1B4-4BEB-967C-4DADA8148D15}|03.Largest3Numbers\\03.Largest3Numbers.csproj|solutionrelative:03.largest3numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8819A3-BDAE-4010-87B8-E546A311BAFC}|02.AverageStudentGrades\\02.AverageStudentGrades.csproj|c:\\users\\nikyata\\source\\repos\\setsanddictionariesadvanced-lab\\02.averagestudentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8819A3-BDAE-4010-87B8-E546A311BAFC}|02.AverageStudentGrades\\02.AverageStudentGrades.csproj|solutionrelative:02.averagestudentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73914BC0-961C-47B6-8829-A9450DE1F26A}|01.CountSameValuesInArray\\01.CountSameValuesInArray.csproj|c:\\users\\nikyata\\source\\repos\\setsanddictionariesadvanced-lab\\01.countsamevaluesinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73914BC0-961C-47B6-8829-A9450DE1F26A}|01.CountSameValuesInArray\\01.CountSameValuesInArray.csproj|solutionrelative:01.countsamevaluesinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\08.SoftUniParty\\Program.cs",
+              "RelativeDocumentMoniker": "08.SoftUniParty\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\08.SoftUniParty\\Program.cs",
+              "RelativeToolTip": "08.SoftUniParty\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:27:16.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\07.ParkingLot\\Program.cs",
+              "RelativeDocumentMoniker": "07.ParkingLot\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\07.ParkingLot\\Program.cs",
+              "RelativeToolTip": "07.ParkingLot\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:20:45.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\06.RecordUniqueNames\\Program.cs",
+              "RelativeDocumentMoniker": "06.RecordUniqueNames\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\06.RecordUniqueNames\\Program.cs",
+              "RelativeToolTip": "06.RecordUniqueNames\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:19:04.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\05.CitiesbyContinentAndCountry\\Program.cs",
+              "RelativeDocumentMoniker": "05.CitiesbyContinentAndCountry\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\05.CitiesbyContinentAndCountry\\Program.cs",
+              "RelativeToolTip": "05.CitiesbyContinentAndCountry\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:08:57.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\04.ProductShop\\Program.cs",
+              "RelativeDocumentMoniker": "04.ProductShop\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\04.ProductShop\\Program.cs",
+              "RelativeToolTip": "04.ProductShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:57:30.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\03.Largest3Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.Largest3Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\03.Largest3Numbers\\Program.cs",
+              "RelativeToolTip": "03.Largest3Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:54:41.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\02.AverageStudentGrades\\Program.cs",
+              "RelativeDocumentMoniker": "02.AverageStudentGrades\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\02.AverageStudentGrades\\Program.cs",
+              "RelativeToolTip": "02.AverageStudentGrades\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:38:06.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\01.CountSameValuesInArray\\Program.cs",
+              "RelativeDocumentMoniker": "01.CountSameValuesInArray\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\SetsAndDictionariesAdvanced-Lab\\01.CountSameValuesInArray\\Program.cs",
+              "RelativeToolTip": "01.CountSameValuesInArray\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:31:59.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

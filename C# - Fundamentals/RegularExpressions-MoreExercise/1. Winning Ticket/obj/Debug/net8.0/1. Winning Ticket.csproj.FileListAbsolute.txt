@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\net8.0\1. Winning Ticket.exe
+C:\Users\nikyata\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\net8.0\1. Winning Ticket.deps.json
+C:\Users\nikyata\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\net8.0\1. Winning Ticket.runtimeconfig.json
+C:\Users\nikyata\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\net8.0\1. Winning Ticket.dll
+C:\Users\nikyata\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\net8.0\1. Winning Ticket.pdb
+C:\Users\nikyata\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net8.0\1. Winning Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net8.0\1. Winning Ticket.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net8.0\1. Winning Ticket.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net8.0\1. Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net8.0\1. Winning Ticket.dll
+C:\Users\nikyata\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net8.0\refint\1. Winning Ticket.dll
+C:\Users\nikyata\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net8.0\1. Winning Ticket.pdb
+C:\Users\nikyata\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net8.0\1. Winning Ticket.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\net8.0\ref\1. Winning Ticket.dll

@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\тест\bin\Debug\net8.0\тест.exe
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\тест\bin\Debug\net8.0\тест.deps.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\тест\bin\Debug\net8.0\тест.runtimeconfig.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\тест\bin\Debug\net8.0\тест.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\тест\bin\Debug\net8.0\тест.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\тест\obj\Debug\net8.0\тест.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\тест\obj\Debug\net8.0\тест.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\тест\obj\Debug\net8.0\тест.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\тест\obj\Debug\net8.0\тест.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\тест\obj\Debug\net8.0\тест.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\тест\obj\Debug\net8.0\refint\тест.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\тест\obj\Debug\net8.0\тест.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\тест\obj\Debug\net8.0\тест.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\тест\obj\Debug\net8.0\ref\тест.dll

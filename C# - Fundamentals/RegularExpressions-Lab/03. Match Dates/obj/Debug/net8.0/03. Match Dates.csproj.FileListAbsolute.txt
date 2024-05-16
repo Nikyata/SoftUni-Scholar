@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\03. Match Dates\bin\Debug\net8.0\03. Match Dates.exe
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\03. Match Dates\bin\Debug\net8.0\03. Match Dates.deps.json
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\03. Match Dates\bin\Debug\net8.0\03. Match Dates.runtimeconfig.json
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\03. Match Dates\bin\Debug\net8.0\03. Match Dates.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\03. Match Dates\bin\Debug\net8.0\03. Match Dates.pdb
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\03. Match Dates\obj\Debug\net8.0\03. Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\03. Match Dates\obj\Debug\net8.0\03. Match Dates.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\03. Match Dates\obj\Debug\net8.0\03. Match Dates.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\03. Match Dates\obj\Debug\net8.0\03. Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\03. Match Dates\obj\Debug\net8.0\03. Match Dates.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\03. Match Dates\obj\Debug\net8.0\refint\03. Match Dates.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\03. Match Dates\obj\Debug\net8.0\03. Match Dates.pdb
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\03. Match Dates\obj\Debug\net8.0\03. Match Dates.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Lab\03. Match Dates\obj\Debug\net8.0\ref\03. Match Dates.dll

@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\net6.0\5.SnakeMoves.exe
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\net6.0\5.SnakeMoves.deps.json
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\net6.0\5.SnakeMoves.runtimeconfig.json
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\net6.0\5.SnakeMoves.dll
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\5.SnakeMoves\bin\Debug\net6.0\5.SnakeMoves.pdb
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net6.0\5.SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net6.0\5.SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net6.0\5.SnakeMoves.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net6.0\5.SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net6.0\5.SnakeMoves.dll
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net6.0\refint\5.SnakeMoves.dll
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net6.0\5.SnakeMoves.pdb
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net6.0\5.SnakeMoves.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\MultidimensionalArrays-Exercise\5.SnakeMoves\obj\Debug\net6.0\ref\5.SnakeMoves.dll

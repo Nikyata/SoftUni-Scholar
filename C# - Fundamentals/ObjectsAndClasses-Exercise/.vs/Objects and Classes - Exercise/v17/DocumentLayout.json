@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{145AE448-937F-4BF0-9975-3BE3B670E377}|05. Shopping Spree\\05. Shopping Spree.csproj|c:\\users\\nikyata\\source\\repos\\objects and classes - exercise\\05. shopping spree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145AE448-937F-4BF0-9975-3BE3B670E377}|05. Shopping Spree\\05. Shopping Spree.csproj|solutionrelative:05. shopping spree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA9A6EE-DC51-4886-906C-E76C3D1354BC}|04. Raw Data\\04. Raw Data.csproj|c:\\users\\nikyata\\source\\repos\\objects and classes - exercise\\04. raw data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA9A6EE-DC51-4886-906C-E76C3D1354BC}|04. Raw Data\\04. Raw Data.csproj|solutionrelative:04. raw data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715AD251-8252-4EE4-8777-468401A1E24A}|03. Speed Racing\\03. Speed Racing.csproj|c:\\users\\nikyata\\source\\repos\\objects and classes - exercise\\03. speed racing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715AD251-8252-4EE4-8777-468401A1E24A}|03. Speed Racing\\03. Speed Racing.csproj|solutionrelative:03. speed racing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E63C6E-42E9-4A1C-A460-92AB7D10FC27}|01. Advertisement Message\\01. Advertisement Message.csproj|c:\\users\\nikyata\\source\\repos\\objects and classes - exercise\\01. advertisement message\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E63C6E-42E9-4A1C-A460-92AB7D10FC27}|01. Advertisement Message\\01. Advertisement Message.csproj|solutionrelative:01. advertisement message\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BB39CD-2BB2-4696-833A-49C7454E6744}|\u0442\u0435\u0441\u0442\\\u0442\u0435\u0441\u0442.csproj|c:\\users\\nikyata\\source\\repos\\objects and classes - exercise\\\u0442\u0435\u0441\u0442\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BB39CD-2BB2-4696-833A-49C7454E6744}|\u0442\u0435\u0441\u0442\\\u0442\u0435\u0441\u0442.csproj|solutionrelative:\u0442\u0435\u0441\u0442\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FAF1614-7151-4F53-AB79-247FE0266BA0}|02. Oldest Family Member\\02. Oldest Family Member.csproj|c:\\users\\nikyata\\source\\repos\\objects and classes - exercise\\02. oldest family member\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FAF1614-7151-4F53-AB79-247FE0266BA0}|02. Oldest Family Member\\02. Oldest Family Member.csproj|solutionrelative:02. oldest family member\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE759C4B-4421-425B-85A3-44A18E6D12C0}|01. Company Roster\\01. Company Roster.csproj|c:\\users\\nikyata\\source\\repos\\objects and classes - exercise\\01. company roster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE759C4B-4421-425B-85A3-44A18E6D12C0}|01. Company Roster\\01. Company Roster.csproj|solutionrelative:01. company roster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F36B701-CFBB-4312-B153-89ACF61BAF63}|06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj|c:\\users\\nikyata\\source\\repos\\objects and classes - exercise\\06. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F36B701-CFBB-4312-B153-89ACF61BAF63}|06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj|solutionrelative:06. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8770DF5C-8781-4955-B1F8-2B06D7D626D5}|05. Teamwork Projects\\05. Teamwork Projects.csproj|c:\\users\\nikyata\\source\\repos\\objects and classes - exercise\\05. teamwork projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8770DF5C-8781-4955-B1F8-2B06D7D626D5}|05. Teamwork Projects\\05. Teamwork Projects.csproj|solutionrelative:05. teamwork projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B11981-21FD-4267-A0F8-69C5F1867EC0}|03. Articles 2.0\\03. Articles 2.0.csproj|c:\\users\\nikyata\\source\\repos\\objects and classes - exercise\\03. articles 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B11981-21FD-4267-A0F8-69C5F1867EC0}|03. Articles 2.0\\03. Articles 2.0.csproj|solutionrelative:03. articles 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B774C6A-3E7B-422D-BFB9-793D383F39DB}|04. Students\\04. Students.csproj|c:\\users\\nikyata\\source\\repos\\objects and classes - exercise\\04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B774C6A-3E7B-422D-BFB9-793D383F39DB}|04. Students\\04. Students.csproj|solutionrelative:04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18DDD9F-533B-49EC-927B-DF10794279EA}|07. Order by Age\\07. Order by Age.csproj|c:\\users\\nikyata\\source\\repos\\objects and classes - exercise\\07. order by age\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18DDD9F-533B-49EC-927B-DF10794279EA}|07. Order by Age\\07. Order by Age.csproj|solutionrelative:07. order by age\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B981666-1B0F-4B91-A1C7-C5C08DF510A7}|02. Articles\\02. Articles.csproj|c:\\users\\nikyata\\source\\repos\\objects and classes - exercise\\02. articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B981666-1B0F-4B91-A1C7-C5C08DF510A7}|02. Articles\\02. Articles.csproj|solutionrelative:02. articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\05. Shopping Spree\\Program.cs",
+              "RelativeDocumentMoniker": "05. Shopping Spree\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\05. Shopping Spree\\Program.cs",
+              "RelativeToolTip": "05. Shopping Spree\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T09:24:26.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\04. Raw Data\\Program.cs",
+              "RelativeDocumentMoniker": "04. Raw Data\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\04. Raw Data\\Program.cs",
+              "RelativeToolTip": "04. Raw Data\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T08:52:45.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\\u0442\u0435\u0441\u0442\\Program.cs",
+              "RelativeDocumentMoniker": "\u0442\u0435\u0441\u0442\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\\u0442\u0435\u0441\u0442\\Program.cs",
+              "RelativeToolTip": "\u0442\u0435\u0441\u0442\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T18:45:12.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\03. Speed Racing\\Program.cs",
+              "RelativeDocumentMoniker": "03. Speed Racing\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\03. Speed Racing\\Program.cs",
+              "RelativeToolTip": "03. Speed Racing\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADcAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:13:32.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\02. Oldest Family Member\\Program.cs",
+              "RelativeDocumentMoniker": "02. Oldest Family Member\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\02. Oldest Family Member\\Program.cs",
+              "RelativeToolTip": "02. Oldest Family Member\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:01:22.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\01. Company Roster\\Program.cs",
+              "RelativeDocumentMoniker": "01. Company Roster\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\01. Company Roster\\Program.cs",
+              "RelativeToolTip": "01. Company Roster\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T12:09:23.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\07. Order by Age\\Program.cs",
+              "RelativeDocumentMoniker": "07. Order by Age\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\07. Order by Age\\Program.cs",
+              "RelativeToolTip": "07. Order by Age\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:43:31.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\06. Vehicle Catalogue\\Program.cs",
+              "RelativeDocumentMoniker": "06. Vehicle Catalogue\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\06. Vehicle Catalogue\\Program.cs",
+              "RelativeToolTip": "06. Vehicle Catalogue\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwCAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:00:47.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\05. Teamwork Projects\\Program.cs",
+              "RelativeDocumentMoniker": "05. Teamwork Projects\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\05. Teamwork Projects\\Program.cs",
+              "RelativeToolTip": "05. Teamwork Projects\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:37:13.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\04. Students\\Program.cs",
+              "RelativeDocumentMoniker": "04. Students\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\04. Students\\Program.cs",
+              "RelativeToolTip": "04. Students\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCUAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:18:10.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\03. Articles 2.0\\Program.cs",
+              "RelativeDocumentMoniker": "03. Articles 2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\03. Articles 2.0\\Program.cs",
+              "RelativeToolTip": "03. Articles 2.0\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:17:32.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\02. Articles\\Program.cs",
+              "RelativeDocumentMoniker": "02. Articles\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\02. Articles\\Program.cs",
+              "RelativeToolTip": "02. Articles\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAzwEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:16:34.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\01. Advertisement Message\\Program.cs",
+              "RelativeDocumentMoniker": "01. Advertisement Message\\Program.cs",
+              "ToolTip": "C:\\Users\\nikyata\\source\\repos\\Objects and Classes - Exercise\\01. Advertisement Message\\Program.cs",
+              "RelativeToolTip": "01. Advertisement Message\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:15:16.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

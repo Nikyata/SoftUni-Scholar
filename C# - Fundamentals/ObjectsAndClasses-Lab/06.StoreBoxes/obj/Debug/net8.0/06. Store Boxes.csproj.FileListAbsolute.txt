@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\04. Students\06. Store Boxes\bin\Debug\net8.0\06. Store Boxes.exe
+C:\Users\nikyata\source\repos\04. Students\06. Store Boxes\bin\Debug\net8.0\06. Store Boxes.deps.json
+C:\Users\nikyata\source\repos\04. Students\06. Store Boxes\bin\Debug\net8.0\06. Store Boxes.runtimeconfig.json
+C:\Users\nikyata\source\repos\04. Students\06. Store Boxes\bin\Debug\net8.0\06. Store Boxes.dll
+C:\Users\nikyata\source\repos\04. Students\06. Store Boxes\bin\Debug\net8.0\06. Store Boxes.pdb
+C:\Users\nikyata\source\repos\04. Students\06. Store Boxes\obj\Debug\net8.0\06. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\04. Students\06. Store Boxes\obj\Debug\net8.0\06. Store Boxes.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\04. Students\06. Store Boxes\obj\Debug\net8.0\06. Store Boxes.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\04. Students\06. Store Boxes\obj\Debug\net8.0\06. Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\04. Students\06. Store Boxes\obj\Debug\net8.0\06. Store Boxes.dll
+C:\Users\nikyata\source\repos\04. Students\06. Store Boxes\obj\Debug\net8.0\refint\06. Store Boxes.dll
+C:\Users\nikyata\source\repos\04. Students\06. Store Boxes\obj\Debug\net8.0\06. Store Boxes.pdb
+C:\Users\nikyata\source\repos\04. Students\06. Store Boxes\obj\Debug\net8.0\06. Store Boxes.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\04. Students\06. Store Boxes\obj\Debug\net8.0\ref\06. Store Boxes.dll

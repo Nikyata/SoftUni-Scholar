@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Students\bin\Debug\net8.0\04. Students.exe
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Students\bin\Debug\net8.0\04. Students.deps.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Students\bin\Debug\net8.0\04. Students.runtimeconfig.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Students\bin\Debug\net8.0\04. Students.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Students\bin\Debug\net8.0\04. Students.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Students\obj\Debug\net8.0\04. Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Students\obj\Debug\net8.0\04. Students.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Students\obj\Debug\net8.0\04. Students.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Students\obj\Debug\net8.0\04. Students.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Students\obj\Debug\net8.0\04. Students.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Students\obj\Debug\net8.0\refint\04. Students.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Students\obj\Debug\net8.0\04. Students.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Students\obj\Debug\net8.0\04. Students.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\04. Students\obj\Debug\net8.0\ref\04. Students.dll

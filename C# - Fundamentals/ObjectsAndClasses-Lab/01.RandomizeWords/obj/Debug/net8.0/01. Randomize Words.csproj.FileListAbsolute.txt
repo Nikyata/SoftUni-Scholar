@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\04. Students\01. Randomize Words\bin\Debug\net8.0\01. Randomize Words.exe
+C:\Users\nikyata\source\repos\04. Students\01. Randomize Words\bin\Debug\net8.0\01. Randomize Words.deps.json
+C:\Users\nikyata\source\repos\04. Students\01. Randomize Words\bin\Debug\net8.0\01. Randomize Words.runtimeconfig.json
+C:\Users\nikyata\source\repos\04. Students\01. Randomize Words\bin\Debug\net8.0\01. Randomize Words.dll
+C:\Users\nikyata\source\repos\04. Students\01. Randomize Words\bin\Debug\net8.0\01. Randomize Words.pdb
+C:\Users\nikyata\source\repos\04. Students\01. Randomize Words\obj\Debug\net8.0\01. Randomize Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\04. Students\01. Randomize Words\obj\Debug\net8.0\01. Randomize Words.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\04. Students\01. Randomize Words\obj\Debug\net8.0\01. Randomize Words.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\04. Students\01. Randomize Words\obj\Debug\net8.0\01. Randomize Words.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\04. Students\01. Randomize Words\obj\Debug\net8.0\01. Randomize Words.dll
+C:\Users\nikyata\source\repos\04. Students\01. Randomize Words\obj\Debug\net8.0\refint\01. Randomize Words.dll
+C:\Users\nikyata\source\repos\04. Students\01. Randomize Words\obj\Debug\net8.0\01. Randomize Words.pdb
+C:\Users\nikyata\source\repos\04. Students\01. Randomize Words\obj\Debug\net8.0\01. Randomize Words.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\04. Students\01. Randomize Words\obj\Debug\net8.0\ref\01. Randomize Words.dll

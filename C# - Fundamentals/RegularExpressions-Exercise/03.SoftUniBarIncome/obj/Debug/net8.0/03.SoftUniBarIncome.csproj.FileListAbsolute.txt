@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\net8.0\03.SoftUniBarIncome.exe
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\net8.0\03.SoftUniBarIncome.deps.json
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\net8.0\03.SoftUniBarIncome.runtimeconfig.json
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\net8.0\03.SoftUniBarIncome.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\net8.0\03.SoftUniBarIncome.pdb
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\03.SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\03.SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\03.SoftUniBarIncome.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\03.SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\03.SoftUniBarIncome.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\refint\03.SoftUniBarIncome.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\03.SoftUniBarIncome.pdb
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\03.SoftUniBarIncome.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\net8.0\ref\03.SoftUniBarIncome.dll

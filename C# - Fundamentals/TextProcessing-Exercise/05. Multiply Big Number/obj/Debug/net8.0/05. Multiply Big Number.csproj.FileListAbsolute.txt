@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net8.0\05. Multiply Big Number.exe
+C:\Users\nikyata\source\repos\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net8.0\05. Multiply Big Number.deps.json
+C:\Users\nikyata\source\repos\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net8.0\05. Multiply Big Number.runtimeconfig.json
+C:\Users\nikyata\source\repos\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net8.0\05. Multiply Big Number.dll
+C:\Users\nikyata\source\repos\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net8.0\05. Multiply Big Number.pdb
+C:\Users\nikyata\source\repos\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\05. Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\05. Multiply Big Number.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\05. Multiply Big Number.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\05. Multiply Big Number.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\05. Multiply Big Number.dll
+C:\Users\nikyata\source\repos\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\refint\05. Multiply Big Number.dll
+C:\Users\nikyata\source\repos\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\05. Multiply Big Number.pdb
+C:\Users\nikyata\source\repos\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\05. Multiply Big Number.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\ref\05. Multiply Big Number.dll

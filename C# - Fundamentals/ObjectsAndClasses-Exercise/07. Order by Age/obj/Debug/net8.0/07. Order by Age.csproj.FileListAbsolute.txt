@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net8.0\07. Order by Age.exe
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net8.0\07. Order by Age.deps.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net8.0\07. Order by Age.runtimeconfig.json
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net8.0\07. Order by Age.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\07. Order by Age\bin\Debug\net8.0\07. Order by Age.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net8.0\07. Order by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net8.0\07. Order by Age.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net8.0\07. Order by Age.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net8.0\07. Order by Age.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net8.0\07. Order by Age.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net8.0\refint\07. Order by Age.dll
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net8.0\07. Order by Age.pdb
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net8.0\07. Order by Age.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\Objects and Classes - Exercise\07. Order by Age\obj\Debug\net8.0\ref\07. Order by Age.dll

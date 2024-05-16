@@ -1,0 +1,14 @@
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net8.0\06.ExtractEmails.exe
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net8.0\06.ExtractEmails.deps.json
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net8.0\06.ExtractEmails.runtimeconfig.json
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net8.0\06.ExtractEmails.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\06.ExtractEmails\bin\Debug\net8.0\06.ExtractEmails.pdb
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net8.0\06.ExtractEmails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net8.0\06.ExtractEmails.AssemblyInfoInputs.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net8.0\06.ExtractEmails.AssemblyInfo.cs
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net8.0\06.ExtractEmails.csproj.CoreCompileInputs.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net8.0\06.ExtractEmails.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net8.0\refint\06.ExtractEmails.dll
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net8.0\06.ExtractEmails.pdb
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net8.0\06.ExtractEmails.genruntimeconfig.cache
+C:\Users\nikyata\source\repos\RegularExpressions-Exercise\06.ExtractEmails\obj\Debug\net8.0\ref\06.ExtractEmails.dll
